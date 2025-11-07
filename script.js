@@ -38,7 +38,7 @@ async function iniciarApp() {
         //Llenamos los filtros
         popularFiltros();
         //Activamos boton de busqueda
-        botonBuscar.addEventListener('click', buscarLibro);
+        botonBuscar.addEventListener('click', buscarLibros);
 
         console.log("Biblioteca cargada:", miBiblioteca);
 
