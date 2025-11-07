@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Biblioteca Agartha</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <h1>Biblioteca Agartha</h1>
+
+    <div class="buscador-container">
+        <label for="barraBusqueda">Buscar por Título o Autor:</label>
+        <input type="text" id="barraBusqueda" placeholder="Ej: Cien años de soledad...">
+        
+        <div class="filtros-container">
+            <div>
+                <label for="filtroAutor">Autor:</label>
+                <select id="filtroAutor">
+                    </select>
+            </div>
+            <div>
+                <label for="filtroCategoria">Categoria:</label>
+                <select id="filtroCategoria" multiple> </select>
+            </div>
+        </div>
+
+        <button id="botonBuscar">Buscar</button>
+    </div>
+
+    <hr> <h2>Resultados:</h2>
+
+    <div id="resultadosContainer">
+        <p>Configura la busqueda y presiona "Buscar"</p>
+    </div>
+
+
+    <script src="script.js"></script>
+
+</body>
+</html>    

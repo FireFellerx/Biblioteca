@@ -1,0 +1,116 @@
+/*--- Estilos Generales ---*/
+body {
+    font-family: Arial, sans-serif; /*Fuente principal*/
+    margin: 0;
+    padding: 20px;
+    background-color: #ADD8E6; /*Color de fondo azul claro*/
+}
+h1 {
+    color: #333333; /*Color del título*/
+    text-align: center; /*Centrar el título*/
+}  
+/*--- El contenedor de Busqueda ---*/
+.buscador-container {
+    max-width: 700px; /*Ancho máximo del contenedor*/
+    margin: 20px auto; /*'auto' lo centra horizontalmente*/
+    padding: 25px;
+    background-color: #ffffff; /*Color de fondo blanco*/
+    border-radius: 8px; /*Bordes redondeados*/
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1); /*Sombra suave*/
+}
+/*--- El campo de texto y el boton ---*/
+#barraBusqueda, #botonBuscar {
+    width: 100%; /*Ancho del campo de texto*/
+    padding: 12px; /*Espaciado interno*/
+    box-sizing: border-box; /*Incluye el padding en el ancho total*/
+    border-radius: 4px; /*Bordes redondeados*/
+    font-size: 16px; /*Tamaño de fuente*/
+}
+#barraBusqueda {
+    border: 1px solid #ddd;
+    margin-bottom: 15px; /*Espacio inferior*/
+}
+#botonBuscar {
+    width: 20%; /*Ancho del botón*/
+    padding: 12px; /*Espaciado interno*/
+    background-color: #007BFF; /*Color de fondo azul*/
+    color: white; /*Color del texto*/
+    border: none; /*Sin borde*/
+    border-radius: 4px; /*Bordes redondeados*/
+    cursor: pointer; /*Cursor de mano al pasar por encima*/
+    font-size: 16px; /*Tamaño de fuente*/
+    margin-left: 10px; /*Espacio entre el campo y el botón*/
+    margin-top: 15px; /*Espacio superior para pantallas pequeñas*/
+}
+/*--- Contenedor de Filtros ---*/
+.filtros-container {
+    display: flex; /*Usa flexbox para alinear los filtros*/
+    justify-content: space-between; /*Espacio entre los filtros*/
+    gap: 15px; /*Espacio entre los elementos*/
+}
+.filtros-container >div {
+    flex: 1; /*Cada filtro ocupa el mismo espacio*/
+}
+.filtros-container label {
+    display: block; /*Cada etiqueta en una nueva línea*/
+    margin-bottom: 5px; /*Espacio inferior*/
+    font-weight: bold; /*Negrita para las etiquetas*/
+}
+/*--- Estilo para los desplegables ---*/
+#filtroAutor, #filtroCategoria {
+    width: 100%;
+    padding: 10px;
+    font-size: 14px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    background-color: #fff;
+}
+/*--- Estilo para el selector multiple ---*/
+#filtroCategoria {
+    height: 120px; ;
+}
+#filtroCategoria option {
+    padding: 5px; /*Espaciado interno para cada opción*/
+}
+/*--- Contenedor de Resultaos ---*/
+#resultadosContainer {
+    max-width: 700px; /*Ancho máximo del contenedor*/
+    margin: 20px auto; /*Centrado horizontal*/
+}
+/*--- ESTILO PARA CADA LIBRO ---*/
+/* Para JavaScript: crear elementos con clase 'libro' */
+.libro-item {
+    background-color: #f9f9f9; /*Color de fondo gris claro*/
+    border: 1px solid #eee; /*Borde gris claro*/
+    border-radius: 5px; /*Bordes redondeados*/
+    padding: 15px; /*Espaciado interno*/
+    margin-bottom: 10px; /*Espacio entre libros*/
+}
+.libro-item h3 { /*Estilo para el título del libro*/
+    margin: 0 0 5px 0; /*Margen inferior para el título*/
+    color: #0056B3; /*Color del título azul*/
+}
+.libro-item p { /*Estilo para el autor y ubicación del libro*/
+    margin: 0; /*Sin margen*/
+    color: #333; /*Color del texto gris*/
+}
+.libro-item strong { /*Estilo para resaltar etiquetas como "Autor:" y "Ubicación:"*/
+    color: #333; /*Color negro para resaltar*/
+}
+/*--- Estilo para las portadas ---*/
+.libro-item img {
+    float: left; /* Hace que la imagen se alinee a la izquierda y el texto fluya a la derecha*/
+    width: 100px; /* ancho fijo de 100px*/
+    height: auto; /*mantenemos la proporción */
+    margin-right: 15px;
+    margin-bottom: 5px;
+    border-radius: 4px; /*bordes redondeados*/
+}
+
+/* Esto es un pequeño "truco" de CSS para asegurra que el contenedor de la tarjeta (.libro-item)
+se expanda correctamente alrededor de la imagen flotante.*/
+.libro-item::after {
+    content: "";
+    display: table;
+    clear: both;
+}

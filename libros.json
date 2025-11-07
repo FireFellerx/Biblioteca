@@ -1,0 +1,2515 @@
+[
+  {
+    "titulo": "1978 EL EJERCITO DE LAS TRINCHERAS",
+    "autor": "ACADEMIA DE HISTORIA MILITAR",
+    "ubicacion": "PA-A01",
+    "portada": "portadas/1978_EJTO_TRINCHERAS.JPG",
+    "categoria": "HISTORIA, CHILE, CONFLICTO BEAGLE "
+  },
+  {
+    "titulo": "MI LUCHA",
+    "autor": "ADOLF HITLER",
+    "ubicacion": "PA-A02",
+    "portada": "portadas/MI_LUCHA.JPG",
+    "categoria": "ENSAYO, FILOSOFIA, POLITICA, BIOGRAFIA"
+  },
+  {
+    "titulo": "CONVERSACIONES SOBRE LA GUERRA Y LA PAZ TOMO I",
+    "autor": "ADOLF HITLER",
+    "ubicacion": "PA-A03",
+    "portada": "portadas/CONVERSACIONES_I.JPG",
+    "categoria": "ENSAYO, FILOSOFIA, POLITICA"
+  },
+  {
+    "titulo": "CONVERSACIONES SOBRE LA GUERRA Y LA PAZ TOMO II",
+    "autor": "ADOLF HITLER",
+    "ubicacion": "PA-A04",
+    "portada": "portadas/CONVERSACIONES_II.JPG",
+    "categoria": "ENSAYO, FILOSOFIA, POLITICA"
+  },
+  {
+    "titulo": "LA CAIDA DE CARTAGO",
+    "autor": "ADRIAN GOLDSWORTHY",
+    "ubicacion": "PA-A05",
+    "portada": "portadas/LA_CAIDA.JPG",
+    "categoria": "HISTORIA, ENSAYO"
+  },
+  {
+    "titulo": "GLOBALISMO",
+    "autor": "AGUSTIN LAJE",
+    "ubicacion": "PA-A06",
+    "portada": "portadas/GLOBALISMO.JPG",
+    "categoria": "POLITICA, ENSAYO"
+  },
+  {
+    "titulo": "CLEOPATRA ",
+    "autor": "ALBERTO ANGELA",
+    "ubicacion": "PA-A07",
+    "portada": "portadas/CLEOPATRA.JPG",
+    "categoria": "HISTORIA, NOVELA, EGIPTO"
+  },
+  {
+    "titulo": "MARTIN RIVAS",
+    "autor": "ALBERTO BLEST GANA",
+    "ubicacion": "PA-A08",
+    "portada": "portadas/MARTINRIVAS.JPG",
+    "categoria": "NOVELA, CHILE, CLASICO"
+  },
+  {
+    "titulo": " LA FRONDA ARISTOCRATICA EN CHILE",
+    "autor": "ALBERTO EDWARDS VIVES",
+    "ubicacion": "PA-A09",
+    "portada": "portadas/LAFRONDA.JPG",
+    "categoria": "HISTORIA, ENSAYO, CHILE"
+  },
+  {
+    "titulo": "EL TRATADO DE 1904",
+    "autor": "ALBERTO MAYER",
+    "ubicacion": "PA-A10",
+    "portada": "portadas/ELTRATADO1904.JPG",
+    "categoria": "ENSAYO, HISTORIA, POLITICA"
+  },
+  {
+    "titulo": "SEÑALES DE ESPERANZA",
+    "autor": "ALEJANDRO BULLON",
+    "ubicacion": "PA-A11",
+    "portada": "portadas/SENALESDEESPERANZABULLON.JPG",
+    "categoria": "ENSAYO, AUTOAYUDA"
+  },
+  {
+    "titulo": "POETA CHILENO",
+    "autor": "ALEJANDRO ZAMBRA",
+    "ubicacion": "PA-A12",
+    "portada": "portadas/POETACHILENO.JPG",
+    "categoria": "NOVELA, CHILE"
+  },
+  {
+    "titulo": "EL CHILE PERPLEJO",
+    "autor": "ALFREDO JOCELYN HOLT",
+    "ubicacion": "PA-A13",
+    "portada": "portadas/ELCHILEPERPLEJO.JPG",
+    "categoria": "ENSAYO, HISTORIA, POLITICA, CHILE"
+  },
+  {
+    "titulo": "LA ARAUCANA",
+    "autor": "ALONSO DE ERCILLA Y ZUÑIGA",
+    "ubicacion": "PA-A14",
+    "portada": "portadas/LAARAUCANA.JPG",
+    "categoria": "POEMA, EPICO, CHILE, CONQUISTA"
+  },
+  {
+    "titulo": "AMI EL NIÑO DE LAS ESTRELLAS",
+    "autor": "AMI",
+    "ubicacion": "PA-A15",
+    "portada": "portadas/AMI.JPG",
+    "categoria": "NOVELA, FANTASIA"
+  },
+  {
+    "titulo": "DIOSES Y HEROES DE LA MITOLOGIA GRIEGA",
+    "autor": "ANA MARIA SHUA",
+    "ubicacion": "PA-A16",
+    "portada": "portadas/DIOSESYHEROES.JPG",
+    "categoria": "NOVELA, MITOLOGIA"
+  },
+  {
+    "titulo": "FRAGATA COCHRANE",
+    "autor": "ANDRES VALENZUELA",
+    "ubicacion": "PA-A17",
+    "portada": "portadas/FRAGATACOCHRANE.JPG",
+    "categoria": "NOVELA, HISTORIA, MILITAR"
+  },
+  {
+    "titulo": "CHURCHILL LA BIOGRAFIA",
+    "autor": "ANDREW ROBERTS",
+    "ubicacion": "PA-A18",
+    "portada": "portadas/CHURCHILL.JPG",
+    "categoria": "BIOGRAFIA"
+  },
+  {
+    "titulo": "ALL THE LIGHT WE CANNOT SEE",
+    "autor": "ANTHONY DOERR",
+    "ubicacion": "PA-A19",
+    "portada": "portadas/ALLTHELIGHTS.JPG",
+    "categoria": "NOVELA, INGLES, HISTORIA, SEGUNDA GUERRA MUNDIAL"
+  },
+  {
+    "titulo": "EL PRINCIPITO",
+    "autor": "ANTOINE DE SAINT EXUPERY",
+    "ubicacion": "PA-A20",
+    "portada": "portadas/ELPRINCIPITO_I.JPG",
+    "categoria": "NOVELA, FANTASIA, CLASICO"
+  },
+  {
+    "titulo": "EL PRINCIPITO",
+    "autor": "ANTOINE DE SAINT EXUPERY",
+    "ubicacion": "PA-A21",
+    "portada": "portadas/ELPRINCIPITO_II.JPG",
+    "categoria": "NOVELA, FANTASIA, CLASICO"
+  },
+  {
+    "titulo": "TEATRO BREVE Y CONTENPORANEO ARGENTINO",
+    "autor": "ANTOLOGIA ",
+    "ubicacion": "PA-A22",
+    "portada": "portadas/TEATROBREVE.JPG",
+    "categoria": "TEATRO, ARTE, ANTOLOGIA"
+  },
+  {
+    "titulo": "ARDIENTE PACIENCIA",
+    "autor": "ANTONIO SKARMETA",
+    "ubicacion": "PA-A23",
+    "portada": "portadas/ARDIENTE_I.JPG",
+    "categoria": "NOVELA"
+  },
+  {
+    "titulo": "ARDIENTE PACIENCIA",
+    "autor": "ANTONIO SKARMETA",
+    "ubicacion": "PA-A24",
+    "portada": "portadas/ARDIENTE_II.JPG",
+    "categoria": "NOVELA"
+  },
+  {
+    "titulo": "ARDIENTE PACIENCIA",
+    "autor": "ANTONIO SKARMETA",
+    "ubicacion": "PA-A25",
+    "portada": "portadas/ARDIENTE_III.JPG",
+    "categoria": "NOVELA"
+  },
+  {
+    "titulo": "UN ESCRITOR EN GUERRA",
+    "autor": "ANTONY BEEVOR",
+    "ubicacion": "PA-A26",
+    "portada": "portadas/UNESCRITOR.JPG",
+    "categoria": "HISTORIA, NOVELA, MILITAR, NO FICCION"
+  },
+  {
+    "titulo": "STALINGRADO",
+    "autor": "ANTONY BEEVOR",
+    "ubicacion": "PA-A27",
+    "portada": "portadas/STALINGRADO.JPG",
+    "categoria": "HISTORIA, NOVELA, MILITAR, NO FICCION"
+  },
+  {
+    "titulo": "BERLIN LA CAIDA 1945",
+    "autor": "ANTONY BEEVOR",
+    "ubicacion": "PA-A28",
+    "portada": "portadas/BERLINLACAIDA.JPG",
+    "categoria": "HISTORIA, NOVELA, MILITAR, NO FICCION"
+  },
+  {
+    "titulo": "CRETA",
+    "autor": "ANTONY BEEVOR",
+    "ubicacion": "PA-A29",
+    "portada": "portadas/CRETA.JPG",
+    "categoria": "HISTORIA, NOVELA, MILITAR, NO FICCION"
+  },
+  {
+    "titulo": "METAFISICA",
+    "autor": "ARISTOTELES",
+    "ubicacion": "PA-A30",
+    "portada": "portadas/METAFISICA.JPG",
+    "categoria": "ENSAYO, CIENCIA, CLASICO, FILOSOFIA"
+  },
+  {
+    "titulo": "2001 UNA ODISEA ESPACIAL",
+    "autor": "ARTHUR C. CLARKE",
+    "ubicacion": "PA-A31",
+    "portada": "portadas/2001.JPG",
+    "categoria": "NOVELA, CIENCIA FICCION, CLASICO"
+  },
+  {
+    "titulo": "SOBRE LA CUADRUPLE RAIZ DEL PRINCIPIO DE RAZON SUFICIENTE",
+    "autor": "ARTHUR SCHOPENHAUER",
+    "ubicacion": "PA-A32",
+    "portada": "portadas/SOBRELACUADRUPLE.JPG",
+    "categoria": "FILOSOFIA, CLASICO"
+  },
+  {
+    "titulo": "VETERANOS DE 1978",
+    "autor": "ARTURO NAHUEL ROJAS",
+    "ubicacion": "PA-A33",
+    "portada": "portadas/VETERANOSDE1978.JPG",
+    "categoria": "HISTORIA, ENSAYO, CHILE, CONFLICTO BEAGLE, MILITAR"
+  },
+  {
+    "titulo": "HOMBRES FACHOS",
+    "autor": "ARTURO RUIZ",
+    "ubicacion": "PA-A34",
+    "portada": "portadas/HOMBRESFACHOS.JPG",
+    "categoria": "ENSAYO, POLITICA"
+  },
+  {
+    "titulo": "CAMINO RECORRIDO TOMO I",
+    "autor": "AUGUSTO PINOCHET",
+    "ubicacion": "PA-A35",
+    "portada": "portadas/CAMINORECORRIDO_I.JPG",
+    "categoria": "BIOGRAFIA, CHILE, MILITAR"
+  },
+  {
+    "titulo": "CAMINO RECORRIDO TOMO II",
+    "autor": "AUGUSTO PINOCHET",
+    "ubicacion": "PA-A36",
+    "portada": "portadas/CAMINORECORRIDO_II.JPG",
+    "categoria": "BIOGRAFIA, CHILE, MILITAR"
+  },
+  {
+    "titulo": "CAMINO RECORRIDO TOMO III",
+    "autor": "AUGUSTO PINOCHET",
+    "ubicacion": "PA-A37",
+    "portada": "portadas/CAMINORECORRIDO_III.JPG",
+    "categoria": "BIOGRAFIA, CHILE, MILITAR"
+  },
+  {
+    "titulo": "EL ODIO A LOS RICOS",
+    "autor": "AXEL KAISER",
+    "ubicacion": "PA-A38",
+    "portada": "portadas/ELODIOALOSRICOS.JPG",
+    "categoria": "ENSAYO, POLITICA, CHILE"
+  },
+  {
+    "titulo": "ALEMANES EN VALPARAISO 1830-1930",
+    "autor": "BALDOMERO ESTRADA TURRA",
+    "ubicacion": "PA-A39",
+    "portada": "portadas/ALEMANESENVALPARAISO.JPG",
+    "categoria": "HISTORIA, CHILE"
+  },
+  {
+    "titulo": "SUBTERRA",
+    "autor": "BALDOMERO LILLO",
+    "ubicacion": "PA-A40",
+    "portada": "portadas/SUBTERRA.JPG",
+    "categoria": "NOVELA, CHILE"
+  },
+  {
+    "titulo": "EL SOCIALISMO EN CHILE",
+    "autor": "BELARMINO ELGUETA",
+    "ubicacion": "PA-A41",
+    "portada": "portadas/ELSOCIALISMOENCHILE.JPG",
+    "categoria": "ENSAYO, POLITICA, CHILE"
+  },
+  {
+    "titulo": "ESTA HISTORIA ES MI HISTORIA",
+    "autor": "BELISARIO VELASCO",
+    "ubicacion": "PA-A42",
+    "portada": "portadas/ESTAESMIHISTORIA.JPG",
+    "categoria": "BIOGRAFIA, POLITICA"
+  },
+  {
+    "titulo": "EL ARTE DE SACAR LA VUELTA",
+    "autor": "BENJAMIN CHACANA PONCE",
+    "ubicacion": "PA-A43",
+    "portada": "portadas/ELARTEDESACARLAVUELTA.JPG",
+    "categoria": "AUTOAYUDA, CRITICA"
+  },
+  {
+    "titulo": "ESTAMBUL",
+    "autor": "BETTANY HUGHES",
+    "ubicacion": "PA-A44",
+    "portada": "portadas/ESTAMBUL.JPG",
+    "categoria": "HISTORIA"
+  },
+  {
+    "titulo": "EL ULTIMO VIRREY DEL PERU",
+    "autor": "BRUNO POLACK",
+    "ubicacion": "PA-A45",
+    "portada": "portadas/ELULTIMOVIRREY.JPG",
+    "categoria": "ENSAYO, HISTORIA, POLITICA, MILITAR"
+  },
+  {
+    "titulo": "LO MARAVILLOSO EN LOS JUEGOS DE AZAR ",
+    "autor": "C. DE VESME",
+    "ubicacion": "PA-A46",
+    "portada": "portadas/LOMARAVILLOSODELOS.JPG",
+    "categoria": "ESOTERICO "
+  },
+  {
+    "titulo": "EL LIBRO ROJO",
+    "autor": "CARL GUSTAV JUNG",
+    "ubicacion": "PA-A47",
+    "portada": "portadas/ELLIBROROJO.JPG",
+    "categoria": "PSICOLOGIA"
+  },
+  {
+    "titulo": "SOBRE EL AMOR",
+    "autor": "CARL GUSTAV JUNG",
+    "ubicacion": "PA-A48",
+    "portada": "portadas/SOBREELAMOR.JPG",
+    "categoria": "PSICOLOGIA"
+  },
+  {
+    "titulo": "LIBIDO SUEÑOS E INCONSCIENTE COLECTIVO",
+    "autor": "CARL GUSTAV JUNG",
+    "ubicacion": "PA-A49",
+    "portada": "portadas/SUENOSEINCOSCIENTE.JPG",
+    "categoria": "PSICOLOGIA"
+  },
+  {
+    "titulo": "ARQUETIPOS E INCONSCIENTE COLECTIVO",
+    "autor": "CARL GUSTAV JUNG",
+    "ubicacion": "PA-A50",
+    "portada": "portadas/ARQUETIPOSEINCONSCIENTE.JPG",
+    "categoria": "PSICOLOGIA"
+  },
+  {
+    "titulo": "LAS CLAVES SECRETAS DE SHAKESPEARE",
+    "autor": "CARLOS BASSO",
+    "ubicacion": "PA-A51",
+    "portada": "portadas/LASCLAVESDESHAKE.JPG",
+    "categoria": "NOVELA, HISTORIA, THRILLER"
+  },
+  {
+    "titulo": "EL ARTE DE ENSOÑAR",
+    "autor": "CARLOS CASTANEDA",
+    "ubicacion": "PA-A52",
+    "portada": "portadas/ELARTEDEENSONAR.JPG",
+    "categoria": "NOVELA, ESOTERICO"
+  },
+  {
+    "titulo": "ESTAMOS HECHOS DE LENGUAJE",
+    "autor": "CARME JIMENEZ HUERTAS",
+    "ubicacion": "PA-A53",
+    "portada": "portadas/ESTAMOSHECHOSDE.JPG",
+    "categoria": "ENSAYO, PSICOLOGIA, CIENCIAS SOCIALES"
+  },
+  {
+    "titulo": "GUERREROS CIVILIZADORES",
+    "autor": "CARMEN MC EVOY",
+    "ubicacion": "PA-A54",
+    "portada": "portadas/GUERREROSCIVILIZADORES.JPG",
+    "categoria": "ENSAYO, HISTORIA, POLITICA, MILITAR, CIENCIAS SOCIALES"
+  },
+  {
+    "titulo": "COMPENDIUM BUKOWSKI",
+    "autor": "CHARLES BUKOWSKI",
+    "ubicacion": "PA-A55",
+    "portada": "portadas/COMPENDIUMCHARLES.JPG",
+    "categoria": "NOVELA, CLASICO"
+  },
+  {
+    "titulo": "RAMSES LA DAMA DE ABU SIMBEL",
+    "autor": "CHRISTIAN JACQ",
+    "ubicacion": "PA-A56",
+    "portada": "portadas/RAMSES.JPG",
+    "categoria": "NOVELA, HISTORIA, FICCION"
+  },
+  {
+    "titulo": "USOS Y COSTUMBRES DE LOS ARAUCANOS",
+    "autor": "CLAUDIO GAY",
+    "ubicacion": "PA-A57",
+    "portada": "portadas/USOSYCOSTUMBRES.JPG",
+    "categoria": "ENSAYO, HISTORIA, CIENCIAS SOCIALES"
+  },
+  {
+    "titulo": "1817 DE MENDOZA A CHACABUCO",
+    "autor": "CRISTIAN GUERRERO LIRA",
+    "ubicacion": "PA-A58",
+    "portada": "portadas/DEMENDOZAACHACABUCO.JPG",
+    "categoria": "ENSAYO, HISTORIA, MILITAR"
+  },
+  {
+    "titulo": "AUSTRIA A SOLDIER'S GUIDE",
+    "autor": "CZERNIN",
+    "ubicacion": "PA-A59",
+    "portada": "portadas/AUSTRIAASOLDIERS.JPG",
+    "categoria": "HISTORIA, NO FICCION"
+  },
+  {
+    "titulo": "ROBINSON CRUSOE",
+    "autor": "DANIEL DEFOE",
+    "ubicacion": "PA-A60",
+    "portada": "portadas/ROBINSONCRUSOE.JPG",
+    "categoria": "NOVELA, FICCION, CLASICO, INGLES"
+  },
+  {
+    "titulo": "¿Y PORQUE NOT?",
+    "autor": "DANIEL FAJARDO",
+    "ubicacion": "PA-A61",
+    "portada": "portadas/YPORQUENOT.JPG",
+    "categoria": "AUTOAYUDA, LIDERAZGO"
+  },
+  {
+    "titulo": "RUIDO UN FALLO EN EL JUICIO HUMANO",
+    "autor": "DANIEL KAHNEMAN",
+    "ubicacion": "PA-A62",
+    "portada": "portadas/RUIDO.JPG",
+    "categoria": "AUTOAYUDA, PSICOLOGIA"
+  },
+  {
+    "titulo": "PENSAR RAPIDO PENSAR DESPACIO",
+    "autor": "DANIEL KAHNEMAN",
+    "ubicacion": "PA-B01",
+    "portada": "portadas/PENSARRAPIDO.JPG",
+    "categoria": "AUTOAYUDA, PSICOLOGIA"
+  },
+  {
+    "titulo": "INFERNO",
+    "autor": "DANTE ALIGHIERI",
+    "ubicacion": "PA-B02",
+    "portada": "portadas/INFERNO.JPG",
+    "categoria": "POESIA, EPICO, LITERATURA, CLASICO"
+  },
+  {
+    "titulo": "COMEDIA",
+    "autor": "DANTE ALIGHIERI",
+    "ubicacion": "PA-B03",
+    "portada": "portadas/COMEDIA.JPG",
+    "categoria": "POESIA, EPICO, LITERATURA, CLASICO"
+  },
+  {
+    "titulo": "LA GUERRA DE HITLER",
+    "autor": "DAVID IRVING",
+    "ubicacion": "PA-B04",
+    "portada": "portadas/LAGUERRADEHITLER.JPG",
+    "categoria": "HISTORIA, MILITAR, BIOGRAFIA, NO FICCION"
+  },
+  {
+    "titulo": "TOKIO AÑO CERO",
+    "autor": "DAVID PEACE",
+    "ubicacion": "PA-B05",
+    "portada": "portadas/TOKIOANOCERO.JPG",
+    "categoria": "NOVELA, THRILLER, FICCION, HISTORIA"
+  },
+  {
+    "titulo": "EL RETORNO DE MERLIN",
+    "autor": "DEEPAK CHOPRA",
+    "ubicacion": "PA-B06",
+    "portada": "portadas/ELRETORNODEMERLIN.JPG",
+    "categoria": "NOVELA, FICCION, FANTASIA"
+  },
+  {
+    "titulo": "EDDA MAYOR",
+    "autor": "DESCONOCIDO",
+    "ubicacion": "PA-B07",
+    "portada": "portadas/EDDAMAYOR.JPG",
+    "categoria": "POESIA, EPICO, MITOLOGIA, CLASICO"
+  },
+  {
+    "titulo": "BHAGAVADGITA",
+    "autor": "DESCONOCIDO",
+    "ubicacion": "PA-B08",
+    "portada": "portadas/BHAGAVAD.JPG",
+    "categoria": "POESIA, EPICO, MITOLOGIA, CLASICO"
+  },
+  {
+    "titulo": "NUEVO TESTAMENTO",
+    "autor": "DESCONOCIDO",
+    "ubicacion": "PA-B09",
+    "portada": "portadas/NUEVOTESTAMENTO.JPG",
+    "categoria": "POESIA, EPICO, MITOLOGIA, CLASICO"
+  },
+  {
+    "titulo": "BECHAMEL MUCHO",
+    "autor": "DIMITRI VERHULST",
+    "ubicacion": "PA-B10",
+    "portada": "portadas/BECHAMELMUCHO.JPG",
+    "categoria": "NOVELA, HOLANDES"
+  },
+  {
+    "titulo": "THE POWER OF THE DOG",
+    "autor": "DON WINSLOW",
+    "ubicacion": "PA-B11",
+    "portada": "portadas/THEPOWEROFTHEDOG.JPG",
+    "categoria": "NOVELA, THRILLER, FICCION, POLITICA, INGLES"
+  },
+  {
+    "titulo": "CIUDAD EN LLAMAS",
+    "autor": "DON WINSLOW",
+    "ubicacion": "PA-B12",
+    "portada": "portadas/CIUDADENLLAMAS.JPG",
+    "categoria": "NOVELA, THRILLER, FICCION, POLITICA"
+  },
+  {
+    "titulo": "NARRACIONES EXTRAORDINARIAS",
+    "autor": "EDGAR ALLAN POE",
+    "ubicacion": "PA-B13",
+    "portada": "portadas/NARRACIONESEXTRAORDINARIAS.JPG",
+    "categoria": "ANTOLOGIA, TERROR, FICCION"
+  },
+  {
+    "titulo": "RUNENKUNDE",
+    "autor": "EDMUND WEBER",
+    "ubicacion": "PA-B14",
+    "portada": "portadas/RUNNENKUNDEEDMUND.JPG",
+    "categoria": "ALEMAN, ESOTERICO"
+  },
+  {
+    "titulo": "RUNENKUNDE",
+    "autor": "EDMUND WEBER",
+    "ubicacion": "PA-B15",
+    "portada": "portadas/RUNNENKUNDEEDMUND.JPG",
+    "categoria": "ALEMAN, ESOTERICO"
+  },
+  {
+    "titulo": "CHILE AL ROJO",
+    "autor": "EDUARDO LABARCA",
+    "ubicacion": "PA-B16",
+    "portada": "portadas/CHILEALROJO.JPG",
+    "categoria": "ENSAYO, POLITICA"
+  },
+  {
+    "titulo": "LOS OJOS DE LA VERDAD",
+    "autor": "ELEODORO SANHUEZA",
+    "ubicacion": "PA-B17",
+    "portada": "portadas/LOSOJOSDELAVERDAD.JPG",
+    "categoria": "ENSAYO, HISTORIA"
+  },
+  {
+    "titulo": "LA GENERACION FUSILADA",
+    "autor": "EMILIANO VALENZUELA",
+    "ubicacion": "PA-B18",
+    "portada": "portadas/LAGENERACIONFUSILADA.JPG",
+    "categoria": "ENSAYO, HISTORIA, POLITICA, CHILE"
+  },
+  {
+    "titulo": "ELOGIO DE LA LOCURA",
+    "autor": "ERASMO DE ROTTERDAM",
+    "ubicacion": "PA-B19",
+    "portada": "portadas/ELOGIODELALOCURA.JPG",
+    "categoria": "ENSAYO, FILOSOFIA"
+  },
+  {
+    "titulo": "HISTORIA DEL SIGLO XX",
+    "autor": "ERIC HOBSBAWM",
+    "ubicacion": "PA-B20",
+    "portada": "portadas/HISTORIADELSIGLOXX.JPG",
+    "categoria": "ENSAYO, HISTORIA"
+  },
+  {
+    "titulo": "EL ALMANAQUE DE NAVAL RAVIKANT",
+    "autor": "ERIC JORGENSON",
+    "ubicacion": "PA-B21",
+    "portada": "portadas/ELAMANAQUE.JPG",
+    "categoria": "AUTOAYUDA, FILOSOFIA"
+  },
+  {
+    "titulo": "DESARROLLO ECONOMICO",
+    "autor": "ERIK HAINDL",
+    "ubicacion": "PA-B22",
+    "portada": "portadas/DESARROLLOECONOMICO.JPG",
+    "categoria": "ECONOMIA"
+  },
+  {
+    "titulo": "HISTORIA POLITICA Y ECONOMICA DE CHILE 1540-2020",
+    "autor": "ERIK HAINDL",
+    "ubicacion": "PA-B23",
+    "portada": "portadas/HISTORIAPOLITICA.JPG",
+    "categoria": "HISTORIA, POLITICA, CHILE"
+  },
+  {
+    "titulo": "TEMPESTADES DE ACERO",
+    "autor": "ERNST JUNGER",
+    "ubicacion": "PA-B24",
+    "portada": "portadas/TEMPESTADESDECACERO.JPG",
+    "categoria": "HISTORIA, NOVELA, NO FICCION, PRIMERA GUERRA MUNDIAL"
+  },
+  {
+    "titulo": "FRANCISCO PIZARRO",
+    "autor": "ESTEBAN MIRA CEBALLOS",
+    "ubicacion": "PA-B25",
+    "portada": "portadas/FRANCISCOPIZARRO.JPG",
+    "categoria": "BIOGRAFIA, HISTORIA, NO FICCION"
+  },
+  {
+    "titulo": "ANGAMOS EL DIA QUE SE CAZO AL HUASCAR",
+    "autor": "FABIAN BERRIOS VILLALON",
+    "ubicacion": "PA-B26",
+    "portada": "portadas/ANGAMOS.JPG",
+    "categoria": "HISTORIA, GUERRA DEL PACIFICO, CHILE"
+  },
+  {
+    "titulo": "ARTE Y TEOLOGIA",
+    "autor": "FEDERICO AGUIRRE ROMERO",
+    "ubicacion": "PA-B27",
+    "portada": "portadas/ARTEYTEOLOGIA.JPG",
+    "categoria": "ENSAYO, NO FICCION, ARTE"
+  },
+  {
+    "titulo": "MONTECASSINO",
+    "autor": "FELIPE BOTAYA",
+    "ubicacion": "PA-B28",
+    "portada": "portadas/MONTECASSINO.JPG",
+    "categoria": "NOVELA, HISTORIA, MILITAR, SEGUNDA GUERRA MUNDIAL"
+  },
+  {
+    "titulo": "LA ESPADA DEL ARCA",
+    "autor": "FELIPE BOTAYA",
+    "ubicacion": "PA-B29",
+    "portada": "portadas/LAESPADADELARCA.JPG",
+    "categoria": "NOVELA, FICCION, HISTORIA"
+  },
+  {
+    "titulo": "GARDEL",
+    "autor": "FELIPE PIGNA",
+    "ubicacion": "PA-C01",
+    "portada": "portadas/GARDEL.JPG",
+    "categoria": "BIOGRAFIA "
+  },
+  {
+    "titulo": "HISTORIA DE LA REPUBLICA DE CHILE VOLUMEN I",
+    "autor": "FERNANDO SILVA",
+    "ubicacion": "PA-C02",
+    "portada": "portadas/HISTORIADELAREPUBLICADECHILE.JPG",
+    "categoria": "HISTORIA, POLITICA, CHILE"
+  },
+  {
+    "titulo": "INSURRECCION",
+    "autor": "FERNANDO VILLEGAS",
+    "ubicacion": "PA-C03",
+    "portada": "portadas/INSURRECION.JPG",
+    "categoria": "ENSAYO, NO FICCION, CRITICA, POLITICA"
+  },
+  {
+    "titulo": "MARCHEN AUS OSTERREICH",
+    "autor": "FISCHER",
+    "ubicacion": "PA-C04",
+    "portada": "portadas/MARCHEN.JPG",
+    "categoria": "CULTURA, AUSTRIA, ALEMAN"
+  },
+  {
+    "titulo": "LA CASA NEVILLE",
+    "autor": "FLORENCIA BONELLI",
+    "ubicacion": "PA-C05",
+    "portada": "portadas/LACASANEVILLE.JPG",
+    "categoria": "NOVELA, ROMANCE"
+  },
+  {
+    "titulo": "CONTRIBUCION AL ESTUDIO DE LA PREHISTORIA UNIVERSAL",
+    "autor": "FLORENCIO DE BASALDUA",
+    "ubicacion": "PA-C06",
+    "portada": "portadas/CONTRIBUCION.JPG",
+    "categoria": "ESOTERICO"
+  },
+  {
+    "titulo": "LEON BAVARO: LAS PERIPECIAS DE UN SOLDADO DE NAPOLEON",
+    "autor": "FRANCISCA HERNANDEZ BUSSE",
+    "ubicacion": "PA-C07",
+    "portada": "portadas/LEONBAVARO.JPG",
+    "categoria": "HISTORIA, EUROPA, MILITAR"
+  },
+  {
+    "titulo": "ALEJANDRO MAGNO",
+    "autor": "FRANCISCO JAVIER NAVARRO",
+    "ubicacion": "PA-C08",
+    "portada": "portadas/ALEJANDROMAGNO.JPG",
+    "categoria": "BIOGRAFIA, HISTORIA, NO FICCION, MILITAR, POLITICA"
+  },
+  {
+    "titulo": "LOGIA",
+    "autor": "FRANCISCO ORTEGA",
+    "ubicacion": "PA-C09",
+    "portada": "portadas/LOGIA_I.JPG",
+    "categoria": "NOVELA, THRILLER, HISTORIA"
+  },
+  {
+    "titulo": "LOGIA",
+    "autor": "FRANCISCO ORTEGA",
+    "ubicacion": "PA-C10",
+    "portada": "portadas/LOGIA_II.JPG",
+    "categoria": "NOVELA, THRILLER, HISTORIA"
+  },
+  {
+    "titulo": "PENSAR DESDE EL ARTE",
+    "autor": "FRANÇOIS FEDIER",
+    "ubicacion": "PA-C11",
+    "portada": "portadas/PENSARDESDEELARTE.JPG",
+    "categoria": "ENSAYO, FILOSOFIA"
+  },
+  {
+    "titulo": "DUNE",
+    "autor": "FRANK HERBERT",
+    "ubicacion": "PA-C12",
+    "portada": "portadas/DUNE.JPG",
+    "categoria": "NOVELA, CIENCIA FICCION"
+  },
+  {
+    "titulo": "EL MESIAS DE DUNE",
+    "autor": "FRANK HERBERT",
+    "ubicacion": "PA-C13",
+    "portada": "portadas/ELMESIASDEDUNE.JPG",
+    "categoria": "NOVELA, CIENCIA FICCION"
+  },
+  {
+    "titulo": "EL VIAJERO Y SU SOMBRA",
+    "autor": "FRIEDRICH NIETZCHE",
+    "ubicacion": "PA-C14",
+    "portada": "portadas/ELVIAJERO.JPG",
+    "categoria": "FILOSOFIA, CLASICO"
+  },
+  {
+    "titulo": "ASI HABLABA ZARATRUSTRA",
+    "autor": "FRIEDRICH NIETZSCHE",
+    "ubicacion": "PA-C15",
+    "portada": "portadas/ASIHABLABAZARA.JPG",
+    "categoria": "FILOSOFIA, CLASICO"
+  },
+  {
+    "titulo": "RELATO DE UN NAUFRAGO",
+    "autor": "GABRIEL GARCIA MARQUEZ",
+    "ubicacion": "PA-C16",
+    "portada": "portadas/REALTODEUNNAUFRAGO.JPG",
+    "categoria": "CRONICA, NO FICCION"
+  },
+  {
+    "titulo": "VIVIR PARA CONTARLA",
+    "autor": "GABRIEL GARCIA MARQUEZ",
+    "ubicacion": "PA-C17",
+    "portada": "portadas/VIVIRPARACONTARLO.JPG",
+    "categoria": "BIOGRAFIA"
+  },
+  {
+    "titulo": "TALA",
+    "autor": "GABRIELA MISTRAL",
+    "ubicacion": "PA-C18",
+    "portada": "portadas/TALA.JPG",
+    "categoria": "POESIA"
+  },
+  {
+    "titulo": "UN HEROE VAGABUNDO",
+    "autor": "GARBO",
+    "ubicacion": "PA-C19",
+    "portada": "portadas/UNHEROEVAGA.JPG",
+    "categoria": "LITERATURA"
+  },
+  {
+    "titulo": "JUJUTSU KAISEN 1",
+    "autor": "GEGE AKUTAMI",
+    "ubicacion": "PA-C20",
+    "portada": "portadas/JUJUTSUI.JPG",
+    "categoria": "MANGA"
+  },
+  {
+    "titulo": "JUJUTSU KAISEN 2",
+    "autor": "GEGE AKUTAMI",
+    "ubicacion": "PA-C21",
+    "portada": "portadas/JUJUTSUII.JPG",
+    "categoria": "MANGA"
+  },
+  {
+    "titulo": "1984",
+    "autor": "GEORGE ORWELL",
+    "ubicacion": "PA-C22",
+    "portada": "portadas/1984.jpg",
+    "categoria": "NOVELA, CIENCIA FICCION, POLITICA"
+  },
+  {
+    "titulo": "COLISEO POLITICO RETRATOS DEL PODER EN CHILE",
+    "autor": "GERMAN SILVA CUADRA",
+    "ubicacion": "PA-C23",
+    "portada": "portadas/COLISEOPOLITICO.JPG",
+    "categoria": "ENSAYO, CRONICA, NO FICCION, POLITICA"
+  },
+  {
+    "titulo": "COCHRANE VS CTHULHU",
+    "autor": "GILBERTO VILLAROEL",
+    "ubicacion": "PA-C24",
+    "portada": "portadas/COCHRANE.JPG",
+    "categoria": "NOVELA, FICCION, HISTORIA"
+  },
+  {
+    "titulo": "EDUCACION MILITAR EN EL SIGLO XXI",
+    "autor": "GONZALO SANTELICES",
+    "ubicacion": "PA-C25",
+    "portada": "portadas/LAED.JPG",
+    "categoria": "ENSAYO, MILITAR, CIENCIAS POLITICAS"
+  },
+  {
+    "titulo": "PRACTICANDO YOGA",
+    "autor": "GRUPO EDITORIAL TOMO",
+    "ubicacion": "PA-C26",
+    "portada": "portadas/PACTICANDO.JPG",
+    "categoria": "AUTOAYUDA "
+  },
+  {
+    "titulo": "LA SOMBRA DE PATRICIO LYNCH",
+    "autor": "GUILLERMO PARVEX",
+    "ubicacion": "PA-C27",
+    "portada": "portadas/LASOMBRA.JPG",
+    "categoria": "HISTORIA, MILITAR, NO FICCION"
+  },
+  {
+    "titulo": "ASALTO FINAL",
+    "autor": "GUILLERMO PARVEX",
+    "ubicacion": "PA-C28",
+    "portada": "portadas/ASALTOFINAL.JPG",
+    "categoria": "NO FICCION, HISTORIA, MILITAR, CHILE"
+  },
+  {
+    "titulo": "FRONTERA SUR",
+    "autor": "GUILLERMO PARVEX",
+    "ubicacion": "PA-C29",
+    "portada": "portadas/FRONTERASUR.JPG",
+    "categoria": "HISTORIA, MILITAR, NO FICCION"
+  },
+  {
+    "titulo": "INVASION DEL GULUMAPU",
+    "autor": "GUILLERMO PARVEX",
+    "ubicacion": "PA-C30",
+    "portada": "portadas/INVASIONDEL.JPG",
+    "categoria": "HISTORIA, MILITAR, NO FICCION"
+  },
+  {
+    "titulo": "TENIENTE HERNAN MERINO",
+    "autor": "GUILLERMO PARVEX",
+    "ubicacion": "PA-C31",
+    "portada": "portadas/TENIENTEHERNA.JPG",
+    "categoria": "HISTORIA, MILITAR, NO FICCION"
+  },
+  {
+    "titulo": "UN VETERANO DE TRES GUERRAS",
+    "autor": "GUILLERMO PARVEX",
+    "ubicacion": "PA-C32",
+    "portada": "portadas/UNVETERANO.JPG",
+    "categoria": "HISTORIA, MILITAR, NO FICCION"
+  },
+  {
+    "titulo": "SERVICIO SRCRETO CHILENO",
+    "autor": "GUILLERMO PARVEX",
+    "ubicacion": "PA-C33",
+    "portada": "portadas/SERVICIOSECRETO.JPG",
+    "categoria": "HISTORIA, MILITAR, NO FICCION"
+  },
+  {
+    "titulo": "EL ROSTRO VERDE",
+    "autor": "GUSTAV MEYRINK",
+    "ubicacion": "PA-C34",
+    "portada": "portadas/ELTROSTRO.JPG",
+    "categoria": "NOVELA, ESOTERICO"
+  },
+  {
+    "titulo": "EL ROSTRO VERDE",
+    "autor": "GUSTAV MEYRINK",
+    "ubicacion": "PA-C35",
+    "portada": "portadas/ELTROSTRO.JPG",
+    "categoria": "NOVELA, ESOTERICO"
+  },
+  {
+    "titulo": "MADAME BOVARY",
+    "autor": "GUSTAVE FLAUBERT",
+    "ubicacion": "PA-C36",
+    "portada": "portadas/MADAMEBOVARY.JPG",
+    "categoria": "NOVELA, FICCION"
+  },
+  {
+    "titulo": "CHINA EL IMPERIO DE LAS MENTIRAS",
+    "autor": "GUY SORMAN",
+    "ubicacion": "PA-C37",
+    "portada": "portadas/ELIMPERIO.JPG",
+    "categoria": "CRITICA, ENSAYO, NO FICCION, POLITICA"
+  },
+  {
+    "titulo": "THE TIME MACHINE",
+    "autor": "H.G. WELLS",
+    "ubicacion": "PA-C38",
+    "portada": "portadas/THETIMEMACHINE.JPG",
+    "categoria": "NOVELA, CIENCIA FICCION, CLASICO, INGLES"
+  },
+  {
+    "titulo": "LA GUERRA DE LOS MUNDOS ",
+    "autor": "H.G. WELLS",
+    "ubicacion": "PA-C39",
+    "portada": "portadas/LAGUERRADELOS.JPG",
+    "categoria": "NOVELA, CIENCIA FICCION, CLASICO"
+  },
+  {
+    "titulo": "EL CASO DE CHARLES DEXTER WARD",
+    "autor": "H.P. LOVECRAFT",
+    "ubicacion": "PA-C40",
+    "portada": "portadas/ELCASODE.JPG",
+    "categoria": "NOVELA, CIENCIA FICCION, TERRROR, CLASICO"
+  },
+  {
+    "titulo": "NARRATIVA COMPLETA 1",
+    "autor": "H.P. LOVECRAFT",
+    "ubicacion": "PA-C41",
+    "portada": "portadas/LOVECRAFTI.JPG",
+    "categoria": "NOVELA, CIENCIA FICCION, TERROR, CLASICO"
+  },
+  {
+    "titulo": "NARRATIVA COMPLETA 2",
+    "autor": "H.P. LOVECRAFT",
+    "ubicacion": "PA-C42",
+    "portada": "portadas/LOVECRAFTI.JPG",
+    "categoria": "NOVELA, CIENCIA FICCION, TERROR,CLASICO"
+  },
+  {
+    "titulo": "NARRATIVA COMPLETA 3",
+    "autor": "H.P. LOVECRAFT",
+    "ubicacion": "PA-C43",
+    "portada": "portadas/LOVECRAFTI.JPG",
+    "categoria": "NOVELA, CIENCIA FICCION, TERROR, CLASICO"
+  },
+  {
+    "titulo": "EL MITO DE CTUHULHU",
+    "autor": "H.P. LOVECRAFT ",
+    "ubicacion": "PA-C44",
+    "portada": "portadas/LOSMITOSDE.JPG",
+    "categoria": "NOVELA, CIENCIA FICCION, TERROR"
+  },
+  {
+    "titulo": "RUNENKUNDE",
+    "autor": "HEINAR SCHILLING",
+    "ubicacion": "PA-C45",
+    "portada": "portadas/RUNENKUNDE.JPG",
+    "categoria": "ESOTERICO, ALEMAN"
+  },
+  {
+    "titulo": "RUNENKUNDE",
+    "autor": "HEINAR SCHILLING",
+    "ubicacion": "PA-C46",
+    "portada": "portadas/RUNENKUNDE.JPG",
+    "categoria": "ESOTERICO, ALEMAN"
+  },
+  {
+    "titulo": "TEJAS VERDES",
+    "autor": "HERNAN VALDES",
+    "ubicacion": "PA-C47",
+    "portada": "portadas/TEJASVERDES.JPG",
+    "categoria": "CRONICA, NO FICCION, HISTORIA"
+  },
+  {
+    "titulo": "EL DIARIO DE LA POSGUERRA EN LA PRISION",
+    "autor": "HIDEKI TOJO",
+    "ubicacion": "PA-C48",
+    "portada": "portadas/MIDIARIO.JPG",
+    "categoria": "BIOGRAFIA, SEGUNDA GUERRA MUNDIAL "
+  },
+  {
+    "titulo": "LA ODISEA ",
+    "autor": "HOMERO",
+    "ubicacion": "PA-C49",
+    "portada": "portadas/LAODISEA.JPG",
+    "categoria": "HISTORIA, GRECIA, CLASICO"
+  },
+  {
+    "titulo": "ESPEJISMO",
+    "autor": "HUGH HOWEY",
+    "ubicacion": "PA-C50",
+    "portada": "portadas/ESPEJISMO.JPG",
+    "categoria": "NOVELA, CIENCIA FICCION"
+  },
+  {
+    "titulo": "DESCENSO A LOS INFIERNOS",
+    "autor": "IAN KERSHAW",
+    "ubicacion": "PA-C51",
+    "portada": "portadas/DESCENSOALOS.JPG",
+    "categoria": "HISTORIA, PRIMERA GUERRA MUNDIAL, SEGUNDA GUERRA MUNDIAL, EUROPA"
+  },
+  {
+    "titulo": "HISTORIAS DEL IMPERIO ROMANO",
+    "autor": "IÑAKI SANTAMARIA CARBAJO",
+    "ubicacion": "PA-C52",
+    "portada": "portadas/IÑAKI.JPG",
+    "categoria": "NOVELA, HISTORIA, ROMA"
+  },
+  {
+    "titulo": "SANGRE PRETORIANA",
+    "autor": "IÑAKI SANTAMARIA CARBAJO",
+    "ubicacion": "PA-C53",
+    "portada": "portadas/SANGREPRETO.JPG",
+    "categoria": "NOVELA, HISTORIA, ROMA"
+  },
+  {
+    "titulo": "TRIOLOGIA IMPERIO",
+    "autor": "ISAAC ASIMOV",
+    "ubicacion": "PA-C54",
+    "portada": "portadas/TRILOGIAIMPERIO.JPG",
+    "categoria": "NOVELA, CIENCIA FICCION, CLASICO"
+  },
+  {
+    "titulo": "FRONTERAS Y OTROS ENSAYOS",
+    "autor": "ISAAC ASIMOV",
+    "ubicacion": "PA-C55",
+    "portada": "portadas/FRONTERASYOTROS.JPG",
+    "categoria": "NOVELA, CIENCIA FICCION "
+  },
+  {
+    "titulo": "ANOCHECER Y OTROS CUENTOS",
+    "autor": "ISAAC ASIMOV",
+    "ubicacion": "PA-C56",
+    "portada": "portadas/ANOCHECERYOTROS.JPG",
+    "categoria": "NOVELA, CIENCIA FICCION "
+  },
+  {
+    "titulo": "TRIOLOGIA DE LA FUNDACION",
+    "autor": "ISAAC ASIMOV",
+    "ubicacion": "PA-C57",
+    "portada": "portadas/TRILOGIAFUNDACION.JPG",
+    "categoria": "NOVELA, CIENCIA FICCION, CLASICO"
+  },
+  {
+    "titulo": "THE CAVES OF STEEL",
+    "autor": "ISAAC ASIMOV",
+    "ubicacion": "PA-C58",
+    "portada": "portadas/THECAVESOF.JPG",
+    "categoria": "NOVELA, CIENCIA FICCION, INGLES"
+  },
+  {
+    "titulo": "ANTES DE LA EDAD DE ORO",
+    "autor": "ISAAC ASIMOV",
+    "ubicacion": "PA-C59",
+    "portada": "portadas/ANTESDELAEDAD.JPG",
+    "categoria": "NOVELA, CIENCIA FICCION "
+  },
+  {
+    "titulo": "VIAJE ALUCINANTE",
+    "autor": "ISAAC ASIMOV",
+    "ubicacion": "PA-C60",
+    "portada": "portadas/VIAJEALUCINANTE.JPG",
+    "categoria": "NOVELA, CIENCIA FICCION "
+  },
+  {
+    "titulo": "HIJO DEL TIEMPO",
+    "autor": "ISAAC ASIMOV",
+    "ubicacion": "PA-C61",
+    "portada": "portadas/HIJODEL.JPG",
+    "categoria": "NOVELA, CIENCIA FICCION "
+  },
+  {
+    "titulo": "EL ROBOT HUMANO",
+    "autor": "ISAAC ASIMOV",
+    "ubicacion": "PA-C62",
+    "portada": "portadas/ELROBOT.JPG",
+    "categoria": "NOVELA, CIENCIA FICCION "
+  },
+  {
+    "titulo": "EL HOMBRE BICENTENARIO ",
+    "autor": "ISAAC ASIMOV",
+    "ubicacion": "PA-D01",
+    "portada": "portadas/ELHOMBRE.JPG",
+    "categoria": "NOVELA, CIENCIA FICCION "
+  },
+  {
+    "titulo": "YO ROBOT",
+    "autor": "ISAAC ASIMOV",
+    "ubicacion": "PA-D02",
+    "portada": "portadas/YOROBOT.JPG",
+    "categoria": "NOVELA, CIENCIA FICCION "
+  },
+  {
+    "titulo": "ROBOTS E IMPERIO",
+    "autor": "ISAAC ASIMOV",
+    "ubicacion": "PA-D03",
+    "portada": "",
+    "categoria": "NOVELA, CIENCIA FICCION "
+  },
+  {
+    "titulo": "FUNDACION ",
+    "autor": "ISAAC ASIMOV",
+    "ubicacion": "PA-D04",
+    "portada": "",
+    "categoria": "NOVELA, CIENCIA FICCION "
+  },
+  {
+    "titulo": "FUNDACION E IMPERIO",
+    "autor": "ISAAC ASIMOV",
+    "ubicacion": "PA-D05",
+    "portada": "",
+    "categoria": "NOVELA, CIENCIA FICCION "
+  },
+  {
+    "titulo": "FUNDACION Y TIERRA ",
+    "autor": "ISAAC ASIMOV",
+    "ubicacion": "PA-D06",
+    "portada": "",
+    "categoria": "NOVELA, CIENCIA FICCION "
+  },
+  {
+    "titulo": "PRELUDIO A LA FUNDACION ",
+    "autor": "ISAAC ASIMOV",
+    "ubicacion": "PA-D07",
+    "portada": "",
+    "categoria": "NOVELA, CIENCIA FICCION "
+  },
+  {
+    "titulo": "HACIA LA FUNDACION",
+    "autor": "ISAAC ASIMOV",
+    "ubicacion": "PA-D08",
+    "portada": "",
+    "categoria": "NOVELA, CIENCIA FICCION "
+  },
+  {
+    "titulo": "EL HOBBIT",
+    "autor": "J.R.R TOLKIEN",
+    "ubicacion": "PA-D09",
+    "portada": "",
+    "categoria": "FANTASIA"
+  },
+  {
+    "titulo": "COLMILLO BLANCO",
+    "autor": "JACK LONDON",
+    "ubicacion": "PA-D10",
+    "portada": "",
+    "categoria": "NOVELA, CLASICO"
+  },
+  {
+    "titulo": "HITLER EN CANARIAS ?",
+    "autor": "JAIME RUBIO ROSALES",
+    "ubicacion": "PA-D11",
+    "portada": "",
+    "categoria": "HISTORIA, SEGUNDA GUERRA MUNDIAL"
+  },
+  {
+    "titulo": "MAZE RUNNER CORRER O MORIR",
+    "autor": "JAMES DASHNER",
+    "ubicacion": "PA-D12",
+    "portada": "",
+    "categoria": "NOVELA, CIENCIA FICCION"
+  },
+  {
+    "titulo": "MAZE RUNNER PRUEBA DE FUEGO",
+    "autor": "JAMES DASHNER",
+    "ubicacion": "PA-D13",
+    "portada": "",
+    "categoria": "NOVELA, CIENCIA FICCION"
+  },
+  {
+    "titulo": "DESDE LAS CENIZAS: VIDA, MUERTE Y TRANSFIGURACION DE LA DEMOCRACIA EN CHILE 1833-1988",
+    "autor": "JAMES R. WHELAN",
+    "ubicacion": "PA-D14",
+    "portada": "",
+    "categoria": "HISTORIA, POLITICA, CHILE"
+  },
+  {
+    "titulo": "EL DESPERTAR DEL LEVIATAN",
+    "autor": "JAMES S. A. COREY",
+    "ubicacion": "PA-D15",
+    "portada": "",
+    "categoria": "NOVELA, CIENCIA FICCION "
+  },
+  {
+    "titulo": "ROMA INVICTA",
+    "autor": "JAVIER NEGRETE",
+    "ubicacion": "PA-D16",
+    "portada": "",
+    "categoria": "NOVELA, HISTORIA, ROMA"
+  },
+  {
+    "titulo": "LATIDOS",
+    "autor": "JAVIER RUESCAS",
+    "ubicacion": "PA-D17",
+    "portada": "",
+    "categoria": "NOVELA"
+  },
+  {
+    "titulo": "MITOLOGIA MAYA",
+    "autor": "JAVIER TAPIA",
+    "ubicacion": "PA-D18",
+    "portada": "",
+    "categoria": "MITOLOGIA "
+  },
+  {
+    "titulo": "MITOLOGIA VIKINGA",
+    "autor": "JAVIER TAPIA",
+    "ubicacion": "PA-D19",
+    "portada": "",
+    "categoria": "MITOLOGIA "
+  },
+  {
+    "titulo": "LA REVOLUCION FRANCESA",
+    "autor": "JEAN CLEMENT MARTIN",
+    "ubicacion": "PA-D20",
+    "portada": "",
+    "categoria": "ENSAYO, HISTORIA"
+  },
+  {
+    "titulo": "WAFFEN SS ",
+    "autor": "JEAN LUC LELEU",
+    "ubicacion": "PA-D21",
+    "portada": "",
+    "categoria": "HISTORIA, SEGUNDA GUERRA MUNDIAL"
+  },
+  {
+    "titulo": "ENSAYO SOBRE EL FRACASO HISTORICO DE LA DEMOCRACIA EN EL SIGLO XXI",
+    "autor": "JESUS G. MAESTRO",
+    "ubicacion": "PA-D22",
+    "portada": "",
+    "categoria": "ENSAYO, HISTORIA, POLITICA"
+  },
+  {
+    "titulo": "HISTORIA UNIVERSAL FREAK",
+    "autor": "JOAQUIN BARAÑAO",
+    "ubicacion": "PA-D23",
+    "portada": "",
+    "categoria": "HISTORIA, ENSAYO"
+  },
+  {
+    "titulo": "VALPARAISO",
+    "autor": "JOAQUIN EDWARDS BELLO",
+    "ubicacion": "PA-D24",
+    "portada": "",
+    "categoria": "NOVELA, CHILE"
+  },
+  {
+    "titulo": "LA REVOLUCION INCONCLUSA TOMO 1",
+    "autor": "JOAQUIN FERMANDOIS",
+    "ubicacion": "PA-D25",
+    "portada": "",
+    "categoria": "ENSAYO, HISTORIA, POLITICA, CHILE"
+  },
+  {
+    "titulo": "LA REVOLUCION INCONCLUSA TOMO 2",
+    "autor": "JOAQUIN FERMANDOIS",
+    "ubicacion": "PA-D26",
+    "portada": "",
+    "categoria": "ENSAYO, HISTORIA, POLITICA, CHILE"
+  },
+  {
+    "titulo": "LA REVOLUCION INCONCLUSA TOMO 3",
+    "autor": "JOAQUIN FERMANDOIS",
+    "ubicacion": "PA-D27",
+    "portada": "",
+    "categoria": "ENSAYO, HISTORIA, POLITICA, CHILE"
+  },
+  {
+    "titulo": "EL NIÑO CON PIJAMA DE RAYAS",
+    "autor": "JOHN BOYNE",
+    "ubicacion": "PA-E01",
+    "portada": "",
+    "categoria": "NOVELA, HISTORIA"
+  },
+  {
+    "titulo": "COMPRENDER LOS CONCEPTOS BASICOS DE LA ECONOMIA",
+    "autor": "JOHN CHARLES POOL",
+    "ubicacion": "PA-E02",
+    "portada": "",
+    "categoria": "ECONOMIA "
+  },
+  {
+    "titulo": "EL PARAISO PERDIDO",
+    "autor": "JOHN MILTON",
+    "ubicacion": "PA-E03",
+    "portada": "",
+    "categoria": "ENSAYO, POESIA"
+  },
+  {
+    "titulo": "YGDRASIL",
+    "autor": "JORGE BARADIT",
+    "ubicacion": "PA-E04",
+    "portada": "",
+    "categoria": "NOVELA, CIENCIA FICCION "
+  },
+  {
+    "titulo": "LA GUERRA INTERIOR",
+    "autor": "JORGE BARADIT",
+    "ubicacion": "PA-E05",
+    "portada": "",
+    "categoria": "NOVELA "
+  },
+  {
+    "titulo": "KALFUKURA EL CORAZON DE LA TIERRA",
+    "autor": "JORGE BARADIT",
+    "ubicacion": "PA-E06",
+    "portada": "",
+    "categoria": "NOVELA"
+  },
+  {
+    "titulo": "SE LAS HECHO EL BUIN",
+    "autor": "JORGE INOSTROSA",
+    "ubicacion": "PA-E07",
+    "portada": "",
+    "categoria": "NOVELA, HISTORIA, GUERRA DEL PACIFICO, CHILE, MILITAR"
+  },
+  {
+    "titulo": "ADIOS AL SEPTIMO DE LINEA TOMO 1",
+    "autor": "JORGE INOSTROSA ",
+    "ubicacion": "PA-E08",
+    "portada": "",
+    "categoria": "NOVELA, HISTORIA, GUERRA DEL PACIFICO, CHILE, MILITAR"
+  },
+  {
+    "titulo": "ADIOS AL SEPTIMO DE LINEA TOMO 2",
+    "autor": "JORGE INOSTROSA ",
+    "ubicacion": "PA-E09",
+    "portada": "",
+    "categoria": "NOVELA, HISTORIA, GUERRA DEL PACIFICO, CHILE, MILITAR"
+  },
+  {
+    "titulo": "ADIOS AL SEPTIMO DE LINEA TOMO 3",
+    "autor": "JORGE INOSTROSA ",
+    "ubicacion": "PA-E10",
+    "portada": "",
+    "categoria": "NOVELA, HISTORIA, GUERRA DEL PACIFICO, CHILE, MILITAR"
+  },
+  {
+    "titulo": "ADIOS AL SEPTIMO DE LINEA TOMO 4",
+    "autor": "JORGE INOSTROSA ",
+    "ubicacion": "PA-E11",
+    "portada": "",
+    "categoria": "NOVELA, HISTORIA, GUERRA DEL PACIFICO, CHILE, MILITAR"
+  },
+  {
+    "titulo": "ADIOS AL SEPTIMO DE LINEA TOMO 5",
+    "autor": "JORGE INOSTROSA ",
+    "ubicacion": "PA-E12",
+    "portada": "",
+    "categoria": "NOVELA, HISTORIA, GUERRA DEL PACIFICO, CHILE, MILITAR"
+  },
+  {
+    "titulo": "TRIZANO",
+    "autor": "JORGE LARA CARMONA",
+    "ubicacion": "PA-E13",
+    "portada": "",
+    "categoria": "BIOGRAFIA, NO FICCION, HISTORIA, CHILE"
+  },
+  {
+    "titulo": "MANUAL DE SOBREVIVENCIA",
+    "autor": "JORGE N. ARTIGAS",
+    "ubicacion": "PA-E14",
+    "portada": "",
+    "categoria": "EDUCACION, NATURISMO"
+  },
+  {
+    "titulo": "GUERRA IDEOLOGICA ",
+    "autor": "JORGE SANCHEZ FUENZALIDA",
+    "ubicacion": "PA-E15",
+    "portada": "",
+    "categoria": "ENSAYO, POLITICA"
+  },
+  {
+    "titulo": "HISTORIA DEL ARTE",
+    "autor": "JOSE FRANCISCO RAFOLS",
+    "ubicacion": "PA-E16",
+    "portada": "",
+    "categoria": "HISTORIA, ARTE "
+  },
+  {
+    "titulo": "GENGIS KHAN EL CONQUISTADOR ",
+    "autor": "JOSE FRECHES ",
+    "ubicacion": "PA-E17",
+    "portada": "",
+    "categoria": "HISTORIA, NOVELA "
+  },
+  {
+    "titulo": "TERCIOS",
+    "autor": "JOSE JAVIER ESPARZA",
+    "ubicacion": "PA-E18",
+    "portada": "",
+    "categoria": "HISTORIA, ESPAÑA"
+  },
+  {
+    "titulo": "SAN QUINTIN",
+    "autor": "JOSE JAVIER ESPARZA",
+    "ubicacion": "PA-E19",
+    "portada": "",
+    "categoria": "NOVELA, HISTORIA, ESPAÑA"
+  },
+  {
+    "titulo": "EL SECRETO DE SPINOZA",
+    "autor": "JOSE RODRIGUES DOS SANTOS",
+    "ubicacion": "PA-E20",
+    "portada": "",
+    "categoria": "NOVELA, HISTORIA "
+  },
+  {
+    "titulo": "VINO ITALIANO",
+    "autor": "JOSEPH BASTIANICH",
+    "ubicacion": "PA-E21",
+    "portada": "",
+    "categoria": "HISTORIA, VINO"
+  },
+  {
+    "titulo": "MITOS Y LEYENDAS DEL PUEBLO DE CHILOTE",
+    "autor": "JUAN ANDRES PIÑA",
+    "ubicacion": "PA-E22",
+    "portada": "",
+    "categoria": "CULTURA, CHILE"
+  },
+  {
+    "titulo": "MEMORIAS DEL EDECAN DE ALLENDE",
+    "autor": "JUAN JOSE MELA TORO",
+    "ubicacion": "PA-E23",
+    "portada": "",
+    "categoria": "HISTORIA, CHILE"
+  },
+  {
+    "titulo": "LOS TERCIOS NO SE RINDEN",
+    "autor": "JUAN PEREZ FONCEA",
+    "ubicacion": "PA-E24",
+    "portada": "",
+    "categoria": "NOVELA, HISTORIA, ESPAÑA"
+  },
+  {
+    "titulo": "EL HEROE DEL CARIBE",
+    "autor": "JUAN PEREZ FONCEA",
+    "ubicacion": "PA-E25",
+    "portada": "",
+    "categoria": "NOVELA, HISTORIA, ESPAÑA"
+  },
+  {
+    "titulo": "LAS RUNAS Y EL SENDERO DE LA INICIACION",
+    "autor": "JUAN RICARDO CESPEDES",
+    "ubicacion": "PA-E26",
+    "portada": "",
+    "categoria": "ESOTERICO"
+  },
+  {
+    "titulo": "LAS RUNAS Y EL SENDERO DE LA INICIACION",
+    "autor": "JUAN RICARDO CESPEDES",
+    "ubicacion": "PA-E27",
+    "portada": "",
+    "categoria": "ESOTERICO"
+  },
+  {
+    "titulo": "SEMIOTICA 1",
+    "autor": "JULIA KRISTEVA",
+    "ubicacion": "PA-E28",
+    "portada": "",
+    "categoria": "FILOSOFIA"
+  },
+  {
+    "titulo": "DISPARA YO YA ESTOY MUERTO",
+    "autor": "JULIA NAVARRO",
+    "ubicacion": "PA-E29",
+    "portada": "",
+    "categoria": "HISTORIA, NOVELA, "
+  },
+  {
+    "titulo": "EL PODER DE LA ESPERANZA ",
+    "autor": "JULIAN MELGOSA",
+    "ubicacion": "PA-E30",
+    "portada": "",
+    "categoria": "AUTOAYUDA"
+  },
+  {
+    "titulo": "SUMERGIBLES ALEMANES EN ARGENTINA Y SUDAMERICA",
+    "autor": "JULIO B. MUTTI",
+    "ubicacion": "PA-E31",
+    "portada": "",
+    "categoria": "HISTORIA, SEGUNDA GUERRA MUNDIAL"
+  },
+  {
+    "titulo": "RAYUELA",
+    "autor": "JULIO CORTAZAR",
+    "ubicacion": "PA-E32",
+    "portada": "",
+    "categoria": "NOVELA, LITERATURA, CLASICO"
+  },
+  {
+    "titulo": "BERSERK TOMO 24",
+    "autor": "KENTARO MIURA",
+    "ubicacion": "PA-E33",
+    "portada": "",
+    "categoria": "MANGA"
+  },
+  {
+    "titulo": "GRANADEROS ",
+    "autor": "KURT PANZER MEYER",
+    "ubicacion": "PA-E34",
+    "portada": "",
+    "categoria": "HISTORIA, BIOGRAFIA, SEGUNDA GUERRA MUNDIAL "
+  },
+  {
+    "titulo": "WOLF",
+    "autor": "LARA TAVEIRNE",
+    "ubicacion": "PA-E35",
+    "portada": "",
+    "categoria": "NOVELA, HOLANDES"
+  },
+  {
+    "titulo": "ORO EN LOS VIÑEDOS",
+    "autor": "LAURA CATENA",
+    "ubicacion": "PA-E36",
+    "portada": "",
+    "categoria": "HISTORIA, VINO"
+  },
+  {
+    "titulo": "QUE ES EL ARTE ?",
+    "autor": "LEON TOLSTOI",
+    "ubicacion": "PA-E37",
+    "portada": "",
+    "categoria": "ARTE, ENSAYO"
+  },
+  {
+    "titulo": "GUERRA Y PAZ",
+    "autor": "LEV TOLSTOI",
+    "ubicacion": "PA-E38",
+    "portada": "",
+    "categoria": "CLASICO, NOVELA "
+  },
+  {
+    "titulo": "EL CORDON DE PLATA",
+    "autor": "LOBSANG RAMPA",
+    "ubicacion": "PA-E39",
+    "portada": "",
+    "categoria": "ESOTERICO, NO FICCION, BIOGRAFIA"
+  },
+  {
+    "titulo": "LA CAVERNA DE LOS ANTEPASADOS",
+    "autor": "LOBSANG RAMPA",
+    "ubicacion": "PA-E40",
+    "portada": "",
+    "categoria": "ESOTERICO, NO FICCION, BIOGRAFIA"
+  },
+  {
+    "titulo": "UNA LUZ EN LA OSCURIDAD",
+    "autor": "LOPSANG RAMPA",
+    "ubicacion": "PA-E41",
+    "portada": "",
+    "categoria": "ESOTERICO, NO FICCION, BIOGRAFIA"
+  },
+  {
+    "titulo": "EL NEANDERTAL DESNUDO",
+    "autor": "LUDOVIC SLIMAK",
+    "ubicacion": "PA-E42",
+    "portada": "",
+    "categoria": "ENSAYO, HISTORIA, DEBATE"
+  },
+  {
+    "titulo": "POLITICA ECONOMICA",
+    "autor": "LUDWIG VON MISES",
+    "ubicacion": "PA-E43",
+    "portada": "",
+    "categoria": "ENSAYO, POLITICA, ECONOMIA "
+  },
+  {
+    "titulo": "CON OJOS DE GIGANTES",
+    "autor": "LUIS FELIPE BARRIENTOS",
+    "ubicacion": "PA-E44",
+    "portada": "",
+    "categoria": "CIENCIAS"
+  },
+  {
+    "titulo": "OPERACIONES MILITARES DE LA GUERRA DE ESPAÑA 1936-1939",
+    "autor": "LUIS MARIA DE LOJENDIO",
+    "ubicacion": "PA-E45",
+    "portada": "",
+    "categoria": "HISTORIA, ESPAÑA"
+  },
+  {
+    "titulo": "HISTORIA DE UNA GAVIOTA Y DEL GATO QUE LE ENSEÑO A VOLAR",
+    "autor": "LUIS SEPULVEDA",
+    "ubicacion": "PA-E46",
+    "portada": "",
+    "categoria": "NOVELA"
+  },
+  {
+    "titulo": "BEAGLE 78 EN LA ESTELA DE PRAT",
+    "autor": "LUIS SIEBERT CRISTI",
+    "ubicacion": "PA-E47",
+    "portada": "",
+    "categoria": "HISTORIA, CHILE, CONFLICTO BEAGLE"
+  },
+  {
+    "titulo": "99 CONSEJOS SOBRE PUROS",
+    "autor": "LUIS T. MELGAR GIL",
+    "ubicacion": "PA-E48",
+    "portada": "",
+    "categoria": "PUROS"
+  },
+  {
+    "titulo": "LA CANCION DE AQUILES",
+    "autor": "MADELINE MILLER",
+    "ubicacion": "PA-E49",
+    "portada": "",
+    "categoria": "NOVELA, HISTORIA, GRECIA"
+  },
+  {
+    "titulo": "EYES IN GAZA ",
+    "autor": "MADS GILBERT",
+    "ubicacion": "PA-E50",
+    "portada": "",
+    "categoria": "FOTOGRAFIA, ENSAYO, CRITICA, INGLES"
+  },
+  {
+    "titulo": "CALEUCHE",
+    "autor": "MAGDALENA PETIT",
+    "ubicacion": "PA-E51",
+    "portada": "",
+    "categoria": "NOVELA, CHILE"
+  },
+  {
+    "titulo": "MISTERIOSA BUENOS AIRES",
+    "autor": "MANUEL MUJICA LAINEZ",
+    "ubicacion": "PA-E52",
+    "portada": "",
+    "categoria": "NOVELA"
+  },
+  {
+    "titulo": "MEDITACIONES",
+    "autor": "MARCO AURELIO ",
+    "ubicacion": "PA-E53",
+    "portada": "",
+    "categoria": "CLASICO, FILOSOFIA "
+  },
+  {
+    "titulo": "EL ASESINATO DE SOCRATES",
+    "autor": "MARCOS CHICOT",
+    "ubicacion": "PA-E54",
+    "portada": "",
+    "categoria": "NOVELA, HISTORIA"
+  },
+  {
+    "titulo": "JOAN MANUEL SERRAT",
+    "autor": "MARGARITA RIVIERE",
+    "ubicacion": "PA-E55",
+    "portada": "",
+    "categoria": "BIOGRAFIA"
+  },
+  {
+    "titulo": "ARTIFICIAL",
+    "autor": "MARIANO SIGMAN",
+    "ubicacion": "PA-E56",
+    "portada": "",
+    "categoria": "ENSAYO, CIENCIA, DEBATE"
+  },
+  {
+    "titulo": "EL PODER DE LAS PALABRAS",
+    "autor": "MARIANO SIGMAN",
+    "ubicacion": "PA-E57",
+    "portada": "",
+    "categoria": "AUTOAYUDA "
+  },
+  {
+    "titulo": "LA CONSPIRACION DE ACUARIO",
+    "autor": "MARILYN FERGUSON",
+    "ubicacion": "PA-E58",
+    "portada": "",
+    "categoria": "ESOTERICO"
+  },
+  {
+    "titulo": "VIAJE AL BIG BANG",
+    "autor": "MARIO HAMUY",
+    "ubicacion": "PA-E59",
+    "portada": "",
+    "categoria": "CIENCIAS"
+  },
+  {
+    "titulo": "LE DEDICO MI SILENCIO ",
+    "autor": "MARIO VARGAS LLOSA ",
+    "ubicacion": "PA-F01",
+    "portada": "",
+    "categoria": "NOVELA"
+  },
+  {
+    "titulo": "MEMENTO MORI",
+    "autor": "MATIAS REEVES",
+    "ubicacion": "PA-F02",
+    "portada": "",
+    "categoria": "FILOSOFIA"
+  },
+  {
+    "titulo": "CAMINO A LA CIMA",
+    "autor": "MAURICIO PURTO ",
+    "ubicacion": "PA-F03",
+    "portada": "",
+    "categoria": "BIOGRAFIA "
+  },
+  {
+    "titulo": "OPERACION CASTIGO",
+    "autor": "MAX HASTINGS",
+    "ubicacion": "PA-F04",
+    "portada": "",
+    "categoria": "HISTORIA, EUROPA, SEGUNDA GUERRA MUNDIAL"
+  },
+  {
+    "titulo": "LA CRISIS DE LOS MISILES DE CUBA 1962",
+    "autor": "MAX HASTINGS",
+    "ubicacion": "PA-F05",
+    "portada": "",
+    "categoria": "ENSAYO, HISTORIA"
+  },
+  {
+    "titulo": "BLACKWATER LA RIADA I",
+    "autor": "MICHAEL MCDOWELL",
+    "ubicacion": "PA-F06",
+    "portada": "",
+    "categoria": "NOVELA, TERROR"
+  },
+  {
+    "titulo": "DON QUIJOTE DE LA MANCHA (RESUMEN)",
+    "autor": "MIGUEL DE CERVANTES",
+    "ubicacion": "PA-F07",
+    "portada": "",
+    "categoria": "NOVELA, CLASICO"
+  },
+  {
+    "titulo": "DON QUIJOTE DE LA MANCHA",
+    "autor": "MIGUEL DE CERVANTES ",
+    "ubicacion": "PA-F08",
+    "portada": "",
+    "categoria": "NOVELA, CLASICO"
+  },
+  {
+    "titulo": "BERNARDO DE GALVEZ ",
+    "autor": "MIGUEL DEL REY",
+    "ubicacion": "PA-F09",
+    "portada": "",
+    "categoria": "HISTORIA, ESPAÑA"
+  },
+  {
+    "titulo": "EL CICLO RACIAL CHILENO",
+    "autor": "MIGUEL SERRANO",
+    "ubicacion": "PA-F10",
+    "portada": "",
+    "categoria": "ESOTERICO, CHILE"
+  },
+  {
+    "titulo": "QUIEN LLAMA EN LOS HIELOS ?",
+    "autor": "MIGUEL SERRANO",
+    "ubicacion": "PA-F11",
+    "portada": "",
+    "categoria": "ESOTERICO, CHILE"
+  },
+  {
+    "titulo": "NI POR MAR NI POR TIERRA",
+    "autor": "MIGUEL SERRANO",
+    "ubicacion": "PA-F12",
+    "portada": "",
+    "categoria": "ESOTERICO, CHILE"
+  },
+  {
+    "titulo": "LA BRUJULA DEL ALMA ESTA MARCANDO EL SUR",
+    "autor": "MIGUEL SERRANO",
+    "ubicacion": "PA-F13",
+    "portada": "",
+    "categoria": "ESOTERICO, CHILE"
+  },
+  {
+    "titulo": "MAYA LA REALIDAD ES UNA ILUSION",
+    "autor": "MIGUEL SERRANO",
+    "ubicacion": "PA-F14",
+    "portada": "",
+    "categoria": "ESOTERICO"
+  },
+  {
+    "titulo": "MAYA LA REALIDAD ES UNA ILUSION",
+    "autor": "MIGUEL SERRANO",
+    "ubicacion": "PA-F15",
+    "portada": "",
+    "categoria": "ESOTERICO"
+  },
+  {
+    "titulo": "MANU POR EL HOMBRE QUE VENDRA",
+    "autor": "MIGUEL SERRANO",
+    "ubicacion": "PA-F16",
+    "portada": "",
+    "categoria": "ESOTERICO "
+  },
+  {
+    "titulo": "EMINENCIA",
+    "autor": "MORRIS WEST",
+    "ubicacion": "PA-F17",
+    "portada": "",
+    "categoria": "NOVELA, THRILLER"
+  },
+  {
+    "titulo": "LA ULTIMA CONFESION ",
+    "autor": "MORRIS WEST",
+    "ubicacion": "PA-F18",
+    "portada": "",
+    "categoria": "NOVELA, HISTORIA, THRILLER, FICCION, BIOGRFIA"
+  },
+  {
+    "titulo": "EL OJO DEL SAMURAI",
+    "autor": "MORRIS WEST",
+    "ubicacion": "PA-F19",
+    "portada": "",
+    "categoria": "NOVELA, POLITICA, THRILLER"
+  },
+  {
+    "titulo": "EL ABOGADO DEL DIABLO",
+    "autor": "MORRIS WEST",
+    "ubicacion": "PA-F20",
+    "portada": "",
+    "categoria": "NOVELA, FICCION, THRILLER"
+  },
+  {
+    "titulo": "MAXIMAS Y PENSAMIENTO",
+    "autor": "NAPOLEON",
+    "ubicacion": "PA-F21",
+    "portada": "",
+    "categoria": "FILOSOFIA, HISTORIA, BIOGRAFIA "
+  },
+  {
+    "titulo": "THE SCARLETT LETTER",
+    "autor": "NATHANIEL HAWTHORNE ",
+    "ubicacion": "PA-F22",
+    "portada": "",
+    "categoria": "NOVELA, INGLES"
+  },
+  {
+    "titulo": "VENCER O MORIR: CRISIS DE 1978",
+    "autor": "NAVAL 77",
+    "ubicacion": "PA-F23",
+    "portada": "",
+    "categoria": "HISTORIA, ENSAYO, CHILE, MILITAR, CONFLICTO BEAGLE"
+  },
+  {
+    "titulo": "ASTROFISICA PARA GENTE APURADA ",
+    "autor": "NEIL DEGRASSE TYSON",
+    "ubicacion": "PA-F24",
+    "portada": "",
+    "categoria": "CIENCIA"
+  },
+  {
+    "titulo": "MITOS NORDICOS",
+    "autor": "NEIL GAIMAN",
+    "ubicacion": "PA-F25",
+    "portada": "",
+    "categoria": "MITOLOGIA"
+  },
+  {
+    "titulo": "MOMENTOS DE LA ANTIGUA ROMA QUE CAMBIARON EL MUNDO",
+    "autor": "NESTOR F. MARQUES",
+    "ubicacion": "PA-F26",
+    "portada": "",
+    "categoria": "ENSAYO, HISTORIA, ROMA"
+  },
+  {
+    "titulo": "EL MISTERIO DE BELICENA VILLCA ",
+    "autor": "NIMROD DE ROSARIO",
+    "ubicacion": "PA-F27",
+    "portada": "",
+    "categoria": "NOVELA, ESOTERICO"
+  },
+  {
+    "titulo": "EL FANTASMA DE CANTERVILLE",
+    "autor": "OSCAR WILDE",
+    "ubicacion": "PA-F28",
+    "portada": "",
+    "categoria": "NOVELA,CLASICO"
+  },
+  {
+    "titulo": "TIGRES EN EL BARRO",
+    "autor": "OTTO CARIUS",
+    "ubicacion": "PA-F29",
+    "portada": "",
+    "categoria": "HISTORIA, BIOGRAFIA, SEGUNDA GUERRA MUNDIAL,  MILITAR"
+  },
+  {
+    "titulo": "ORDEN Y PATRIA ES NUESTRO LEMA ",
+    "autor": "PABLO ISLA MONSALVE",
+    "ubicacion": "PA-F30",
+    "portada": "",
+    "categoria": "ENSAYO, NO FICCION, HISTORIA, POLITICA, CHILE"
+  },
+  {
+    "titulo": "ARTE, VISUALIDAD E HISTORIA",
+    "autor": "PABLO OYARZUN",
+    "ubicacion": "PA-F31",
+    "portada": "",
+    "categoria": "ENSAYO, ARTE"
+  },
+  {
+    "titulo": "ATROFIA",
+    "autor": "PABLO PANIAGUA PRIETO",
+    "ubicacion": "PA-F32",
+    "portada": "",
+    "categoria": "ENSAYO, ECONOMIA, POLITICA, CHILE"
+  },
+  {
+    "titulo": "BONAPARTE 1769-1802",
+    "autor": "PATEICE GUENIFFEY",
+    "ubicacion": "PA-G01",
+    "portada": "",
+    "categoria": "HISTORIA, BIOGRAFIA"
+  },
+  {
+    "titulo": "ERCILLA Y LAS CONTRADICCIONES DEL IMPERIO",
+    "autor": "PATRICIA CERDA",
+    "ubicacion": "PA-G02",
+    "portada": "",
+    "categoria": "HISTORIA, CHILE "
+  },
+  {
+    "titulo": "LA GUERRA EN CAUTIVERIO",
+    "autor": "PATRICIO IBARRA CIFUENTES",
+    "ubicacion": "PA-G03",
+    "portada": "",
+    "categoria": "HISTORIA, GUERRA DEL PACIFICO, CHILE"
+  },
+  {
+    "titulo": "DOY POR SOÑADO TODO LO VIVIDO",
+    "autor": "PATRICIO MANNS",
+    "ubicacion": "PA-G04",
+    "portada": "",
+    "categoria": "BIOGRAFIA"
+  },
+  {
+    "titulo": "THE NAME OF THE WIND",
+    "autor": "PATRICK ROTHFUSS",
+    "ubicacion": "PA-G05",
+    "portada": "",
+    "categoria": "NOVELA, INGLES"
+  },
+  {
+    "titulo": "INTELECTUALES",
+    "autor": "PAUL JOHNSON",
+    "ubicacion": "PA-G06",
+    "portada": "",
+    "categoria": "ENSAYO, CIENCIA, LITERATURA"
+  },
+  {
+    "titulo": "NOVIEMBRE 1942 UNA HISTORIA ",
+    "autor": "PETER ENGLUND",
+    "ubicacion": "PA-G07",
+    "portada": "",
+    "categoria": "HISTORIA, SEGUNDA GUERRA MUNDIAL"
+  },
+  {
+    "titulo": "EL ULTIMO ASESINO",
+    "autor": "PETER STOTHARD",
+    "ubicacion": "PA-G08",
+    "portada": "",
+    "categoria": "NOVELA, HISTORIA, ROMA"
+  },
+  {
+    "titulo": "BATALLA DE VALPARAISO",
+    "autor": "PIERO CASTAGNETO",
+    "ubicacion": "PA-G09",
+    "portada": "",
+    "categoria": "HISTORIA, CHILE"
+  },
+  {
+    "titulo": "SENTENCIA Y VERSOS DE ORO",
+    "autor": "PITAGORAS",
+    "ubicacion": "PA-G10",
+    "portada": "",
+    "categoria": "CLASICO, FILOSOFIA"
+  },
+  {
+    "titulo": "EL CODIGO SECRETO",
+    "autor": "PRIYA HEMENWAY",
+    "ubicacion": "PA-G11",
+    "portada": "",
+    "categoria": "ENSAYO, NO FICCION, ARTE"
+  },
+  {
+    "titulo": "BAQUEDANO",
+    "autor": "RAFAEL GONZALEZ",
+    "ubicacion": "PA-G12",
+    "portada": "",
+    "categoria": "BIOGRAFIA, NO FICCION, HISTORIA, MILITAR, CHILE"
+  },
+  {
+    "titulo": "LOS PONCHOS A LA CINTURA",
+    "autor": "RAFAEL GONZALEZ AMARAL",
+    "ubicacion": "PA-G13",
+    "portada": "",
+    "categoria": "NOVELA, HISTORIA, GUERRA DEL PACIFICO, CHILE, MILITAR"
+  },
+  {
+    "titulo": "¿PORQUE CHILE GANO LA GUERRA DEL PACIFICO?",
+    "autor": "RAFAEL MELLAFE MATURANA",
+    "ubicacion": "PA-G14",
+    "portada": "",
+    "categoria": "ENSAYO, HISTORIA, NO FICCION, MILITAR, CHILE, GUERRA DEL PACIFICO"
+  },
+  {
+    "titulo": "TACNA LA BATALLA TRASCENDENTAL",
+    "autor": "RAFAEL MELLAFE MATURANA",
+    "ubicacion": "PA-G15",
+    "portada": "",
+    "categoria": "ENSAYO, HISTORIA, NO FICCION, MILITAR, CHILE, GUERRA DEL PACIFICO"
+  },
+  {
+    "titulo": "LAS BATALLAS POR LIMA ",
+    "autor": "RAFAEL MELLAFE MATURANA",
+    "ubicacion": "PA-G16",
+    "portada": "",
+    "categoria": "ENSAYO, HISTORIA, NO FICCION, MILITAR, CHILE, GUERRA DEL PACIFICO"
+  },
+  {
+    "titulo": "LA GUERRA DEL PACIFICO",
+    "autor": "RAFAEL MELLAFE MATURANA",
+    "ubicacion": "PA-G17",
+    "portada": "",
+    "categoria": "ENSAYO, HISTORIA, NO FICCION, MILITAR, CHILE, GUERRA DEL PACIFICO"
+  },
+  {
+    "titulo": "21 DE MAYO DE 1879 IQUIQUE Y PUNTA GRUESA ",
+    "autor": "RAFAEL MELLAFE MATURANA",
+    "ubicacion": "PA-G18",
+    "portada": "",
+    "categoria": "ENSAYO, HISTORIA, NO FICCION, MILITAR, CHILE, GUERRA DEL PACIFICO"
+  },
+  {
+    "titulo": "JAMAS VENCIDOS",
+    "autor": "RAUL OLMEDO DROGUETT",
+    "ubicacion": "PA-G19",
+    "portada": "",
+    "categoria": "POESIA"
+  },
+  {
+    "titulo": "EL PATIO DEL PODER",
+    "autor": "RENATO GARIN GONZALEZ",
+    "ubicacion": "PA-G20",
+    "portada": "",
+    "categoria": "ENSAYO, POLITICA"
+  },
+  {
+    "titulo": "SOLDADOS DE UNA GUERRA QUE NO FUE",
+    "autor": "RICARDO AVELLO AVILA",
+    "ubicacion": "PA-G21",
+    "portada": "",
+    "categoria": "HISTORIA, CHILE, CONFLICTO BEAGLE, CRONICA, NO FICCION"
+  },
+  {
+    "titulo": "JUAN SALVADOR GAVIOTA ",
+    "autor": "RICHARD BACH",
+    "ubicacion": "PA-G22",
+    "portada": "",
+    "categoria": "NOVELA"
+  },
+  {
+    "titulo": "EL ARTE DE LA GUERRA: PASATIEMPOS ESTRATEGICOS",
+    "autor": "RICHARD GALLAND",
+    "ubicacion": "PA-G23",
+    "portada": "",
+    "categoria": "AUTOAYUDA"
+  },
+  {
+    "titulo": "LAS PRUEBAS DE APOLO EL ORACULO OCULTO",
+    "autor": "RICK RIORDAN",
+    "ubicacion": "PA-G24",
+    "portada": "",
+    "categoria": "NOVELA, FANTASIA"
+  },
+  {
+    "titulo": "HEROES NORDICOS",
+    "autor": "RICK RIORDAN",
+    "ubicacion": "PA-G25",
+    "portada": "",
+    "categoria": "MITOLOGIA"
+  },
+  {
+    "titulo": "THE 33 STRATEGIES OF WAR ",
+    "autor": "ROBERT GREENE",
+    "ubicacion": "PA-G26",
+    "portada": "",
+    "categoria": "AUTOAYUDA, HISTORIA, MILITAR"
+  },
+  {
+    "titulo": "HISTORIA DE ALEMANIA",
+    "autor": "ROBERT HERMANN TENBROCK",
+    "ubicacion": "PA-G27",
+    "portada": "",
+    "categoria": "HISTORIA, ALEMANIA"
+  },
+  {
+    "titulo": "ROMA UNA HISTORIA CULTURAL",
+    "autor": "ROBERT HUGHES",
+    "ubicacion": "PA-G28",
+    "portada": "",
+    "categoria": "HISTORIA, ROMA"
+  },
+  {
+    "titulo": "THE STRANGE CASE OF DR JEKYLL AND MR HYDE",
+    "autor": "ROBERT LOUIS STEVENSON",
+    "ubicacion": "PA-G29",
+    "portada": "",
+    "categoria": "NOVELA, THRILLER, INGLES"
+  },
+  {
+    "titulo": "PADRE RICO PADRE POBRE",
+    "autor": "ROBERT T. KIYOSAKI",
+    "ubicacion": "PA-G30",
+    "portada": "",
+    "categoria": "ECONOMIA, AUTOAYUDA "
+  },
+  {
+    "titulo": "NUESTROS AÑOS VERDE OLIVO",
+    "autor": "ROBERTO AMPUERO",
+    "ubicacion": "PA-G31",
+    "portada": "",
+    "categoria": "NOVELA, HISTORIA "
+  },
+  {
+    "titulo": "NUNCA VOLVERE A BERLIN",
+    "autor": "ROBERTO AMPUERO",
+    "ubicacion": "PA-G32",
+    "portada": "",
+    "categoria": "NOVELA, HISTORIA "
+  },
+  {
+    "titulo": "EL CLUB DE LAS 5 AM",
+    "autor": "ROBIN SHARMA",
+    "ubicacion": "PA-G33",
+    "portada": "",
+    "categoria": "AUTOAYUDA "
+  },
+  {
+    "titulo": "HEIDEGGER Y LA EXISTENCIA PROPIA",
+    "autor": "RODRIGO BRITO PASTRANA",
+    "ubicacion": "PA-G34",
+    "portada": "",
+    "categoria": "ENSAYO, FILOSOFIA "
+  },
+  {
+    "titulo": "LOS INMORTALES DEL MORRO DE ARICA ",
+    "autor": "RODRIGO UGALDE PRIETO",
+    "ubicacion": "PA-G35",
+    "portada": "",
+    "categoria": "HISTORIA, CHILE, NO FICCION, MILITAR, GUERRA DEL PACIFICO"
+  },
+  {
+    "titulo": "BATALLON ATACAMA, EL MAS BRAVO ENTRE LOS BRAVOS",
+    "autor": "RODRIGO UGALDE PRIETO",
+    "ubicacion": "PA-G36",
+    "portada": "",
+    "categoria": "ENSAYO, HISTORIA, CHILE, GUERRA DEL PACIFICO "
+  },
+  {
+    "titulo": "LA ODISEA DE CABEZA DE VACA",
+    "autor": "RUBEN CABA ",
+    "ubicacion": "PA-G37",
+    "portada": "",
+    "categoria": "HISTORIA, AMERICA"
+  },
+  {
+    "titulo": "SCHOPENHAUER Y LOS AÑOS SALVAJES DE LA FILOSOFIA ",
+    "autor": "RUDIGER SAFRANSKI",
+    "ubicacion": "PA-G38",
+    "portada": "",
+    "categoria": "ENSAYO, FILOSOFIA"
+  },
+  {
+    "titulo": "ROMA SOY YO",
+    "autor": "SANTIAGO POSTEGUILLO",
+    "ubicacion": "PA-G39",
+    "portada": "",
+    "categoria": "NOVELA, HISTORIA, ROMA"
+  },
+  {
+    "titulo": "LAS LEGIONES MALDITAS",
+    "autor": "SANTIAGO POSTERGUILLO",
+    "ubicacion": "PA-G40",
+    "portada": "",
+    "categoria": "NOVELA, HISTORIA, ROMA"
+  },
+  {
+    "titulo": "EL DELFIN",
+    "autor": "SERGIO BAMBAREN",
+    "ubicacion": "PA-G41",
+    "portada": "",
+    "categoria": "NOVELA"
+  },
+  {
+    "titulo": "HEILIGE RUNENMACHT",
+    "autor": "SIEGFRIED ADOLF KUMMER",
+    "ubicacion": "PA-G42",
+    "portada": "",
+    "categoria": "ALEMAN, ESOTERICO"
+  },
+  {
+    "titulo": "HEILIGE RUNENMACHT",
+    "autor": "SIEGFRIED ADOLF KUMMER",
+    "ubicacion": "PA-G43",
+    "portada": "",
+    "categoria": "ESOTERICO, ALEMAN"
+  },
+  {
+    "titulo": "EDDA MENOR",
+    "autor": "SNORRI",
+    "ubicacion": "PA-G44",
+    "portada": "",
+    "categoria": "MITOLOGIA, POESIA, LITERATURA"
+  },
+  {
+    "titulo": "NOVELA DE AJEDREZ",
+    "autor": "STEFAN ZWEIG",
+    "ubicacion": "PA-G45",
+    "portada": "",
+    "categoria": "NOVELA"
+  },
+  {
+    "titulo": "UNDER THE DOME",
+    "autor": "STEPHEN KING",
+    "ubicacion": "PA-G46",
+    "portada": "",
+    "categoria": "NOVELA, CIENCIA FICCION, THRILLER "
+  },
+  {
+    "titulo": "EL ARTE DE LA GUERRA",
+    "autor": "SUN TZU",
+    "ubicacion": "PA-G47",
+    "portada": "",
+    "categoria": "CLASICO, MILITAR "
+  },
+  {
+    "titulo": "LAS DOS RAZAS LA CHILENA Y LA PERUANA",
+    "autor": "T. DIMITRIJEVICH",
+    "ubicacion": "PA-G48",
+    "portada": "",
+    "categoria": "ESOTERICO, HISTORIA"
+  },
+  {
+    "titulo": "EL GATO QUE VENIA DEL CIELO",
+    "autor": "TAKASHI HIRAIDE",
+    "ubicacion": "PA-G49",
+    "portada": "",
+    "categoria": "NOVELA"
+  },
+  {
+    "titulo": "CRUZADA EN JEANS",
+    "autor": "THEA BECKMAN",
+    "ubicacion": "PA-G50",
+    "portada": "",
+    "categoria": "NOVELA"
+  },
+  {
+    "titulo": "MIGUEL ANGEL LA OBRA COMPLETA",
+    "autor": "THOMAS POPPER",
+    "ubicacion": "PA-G51",
+    "portada": "",
+    "categoria": "FOTOGRAFIA, HISTORIA, EUROPA"
+  },
+  {
+    "titulo": "LA GUARDIA PRETORIANA DEL III REICH",
+    "autor": "TIKAL",
+    "ubicacion": "PA-G52",
+    "portada": "",
+    "categoria": "FOTOGRAFIA, HISTORIA, SEGUNDA GUERRA MUNDIAL, MILITAR"
+  },
+  {
+    "titulo": "CHEMICAL SECRET",
+    "autor": "TIM VICARY",
+    "ubicacion": "PA-G53",
+    "portada": "",
+    "categoria": "NOVELA, THRILLER, INGLES"
+  },
+  {
+    "titulo": "RUBICON",
+    "autor": "TOM HOLLAND",
+    "ubicacion": "PA-G54",
+    "portada": "",
+    "categoria": "ENSAYO, NO FICCION, HISTORIA, ROMA"
+  },
+  {
+    "titulo": "DINASTIA ",
+    "autor": "TOM HOLLAND",
+    "ubicacion": "PA-G55",
+    "portada": "",
+    "categoria": "ENSAYO, NO FICCION, HISTORIA, ROMA"
+  },
+  {
+    "titulo": "EL PENDULO DE FOUCAULT",
+    "autor": "UMBERCO ECO",
+    "ubicacion": "PA-H01",
+    "portada": "",
+    "categoria": "NOVELA, FICCION"
+  },
+  {
+    "titulo": "EL SUPERHOMBRE DE MASAS",
+    "autor": "UMBERTO ECO",
+    "ubicacion": "PA-H02",
+    "portada": "",
+    "categoria": "ENSAYO, NO FICCION, LITERATURA"
+  },
+  {
+    "titulo": "UNIVERSIDAD DE SALAMANCA TOMO 1",
+    "autor": "UNIVERSIDAD DE SALAMANCA",
+    "ubicacion": "PA-H03",
+    "portada": "",
+    "categoria": "HISTORIA, CIENCIA, ESPAÑA "
+  },
+  {
+    "titulo": "UNIVERSIDAD DE SALAMANCA TOMO 2",
+    "autor": "UNIVERSIDAD DE SALAMANCA",
+    "ubicacion": "PA-H04",
+    "portada": "",
+    "categoria": "HISTORIA, CIENCIA, ESPAÑA "
+  },
+  {
+    "titulo": "EL LIBRO DE URANTIA",
+    "autor": "URANTIA",
+    "ubicacion": "PA-H05",
+    "portada": "",
+    "categoria": "HISTORIA, ESOTERICO "
+  },
+  {
+    "titulo": "EL PROGRESISMO Y LA CULTURA DE LA MUERTE",
+    "autor": "VANESSA KAISER",
+    "ubicacion": "PA-H06",
+    "portada": "",
+    "categoria": "POLITICA, CHILE"
+  },
+  {
+    "titulo": "ENEIDA",
+    "autor": "VIRGILIO",
+    "ubicacion": "PA-H07",
+    "portada": "",
+    "categoria": "HISTORIA, GRECIA, CLASICO"
+  },
+  {
+    "titulo": "2DA GUERRA MUNDIAL LOS MAS FAMOSOS REPORTAJES GRAFICOS TOMO 1",
+    "autor": "VISCONTEA",
+    "ubicacion": "PA-H08",
+    "portada": "",
+    "categoria": "FOTOGRAFIA, HISTORIA, SEGUNDA GUERRA MUNDIAL"
+  },
+  {
+    "titulo": "2DA GUERRA MUNDIAL LOS MAS FAMOSOS REPORTAJES GRAFICOS TOMO 2",
+    "autor": "VISCONTEA",
+    "ubicacion": "PA-H09",
+    "portada": "",
+    "categoria": "FOTOGRAFIA, HISTORIA, SEGUNDA GUERRA MUNDIAL"
+  },
+  {
+    "titulo": "2DA GUERRA MUNDIAL LOS MAS FAMOSOS REPORTAJES GRAFICOS TOMO 3",
+    "autor": "VISCONTEA",
+    "ubicacion": "PA-H10",
+    "portada": "",
+    "categoria": "FOTOGRAFIA, HISTORIA, SEGUNDA GUERRA MUNDIAL"
+  },
+  {
+    "titulo": "ELON MUSK",
+    "autor": "WALTER ISAACSON",
+    "ubicacion": "PA-H11",
+    "portada": "",
+    "categoria": "BIOGRAFIA "
+  },
+  {
+    "titulo": "TIEMPO DE MAGOS",
+    "autor": "WOLFRAM EILENBERGER",
+    "ubicacion": "PA-H12",
+    "portada": "",
+    "categoria": "NOVELA, FILOSOFIA "
+  },
+  {
+    "titulo": "ESPERANDO AL GATO",
+    "autor": "XEBE DIAS",
+    "ubicacion": "PA-H13",
+    "portada": "",
+    "categoria": "POESIA"
+  },
+  {
+    "titulo": "EL MAESTRO DE GO",
+    "autor": "YASUNARI KAWABATA",
+    "ubicacion": "PA-H14",
+    "portada": "",
+    "categoria": "NOVELA"
+  },
+  {
+    "titulo": "NEXUS",
+    "autor": "YUVAL NOAH HARARI ",
+    "ubicacion": "PA-H15",
+    "portada": "",
+    "categoria": "ENSAYO, CIENCIA, DEBATE"
+  },
+  {
+    "titulo": "CUBA (TURISMO)",
+    "autor": "HARVARD",
+    "ubicacion": "PA-H16",
+    "portada": "",
+    "categoria": "TURISMO, CULTURA "
+  },
+  {
+    "titulo": "DUTCH A COMPREHENSIVE GRAMMAR",
+    "autor": "MASSIMO WINSPEARE",
+    "ubicacion": "PA-H17",
+    "portada": "",
+    "categoria": "IDIOMAS, HOLANDES"
+  },
+  {
+    "titulo": "DUTCH AN ESSENTIAL GRAMMAR",
+    "autor": "CAV",
+    "ubicacion": "PA-H18",
+    "portada": "",
+    "categoria": "HOLANDES, EDUCACION"
+  },
+  {
+    "titulo": "MICHELANGELO",
+    "autor": "CAV",
+    "ubicacion": "PA-H19",
+    "portada": "",
+    "categoria": "TURISMO, CULTURA, ITALIANO"
+  },
+  {
+    "titulo": "I MEDICI",
+    "autor": "COSAR EDITORES",
+    "ubicacion": "PA-H20",
+    "portada": "",
+    "categoria": "TURISMO, CULTURA, ITALIANO"
+  },
+  {
+    "titulo": "BOLT ACTION",
+    "autor": "BRUCE DONALDSON",
+    "ubicacion": "PA-H21",
+    "portada": "",
+    "categoria": "JUEGO DE MESA"
+  },
+  {
+    "titulo": "BAILAMOS UN POQUITO ?",
+    "autor": "JORGITO PARRILLERO",
+    "ubicacion": "PA-H22",
+    "portada": "",
+    "categoria": "COCINA"
+  },
+  {
+    "titulo": "GRAMMATIK GANZ KLAR",
+    "autor": "HUEBER",
+    "ubicacion": "PA-H23",
+    "portada": "",
+    "categoria": "IDIOMAS, ALEMAN"
+  },
+  {
+    "titulo": "BATMAN 8O ANIVERSARIO TOMO 12",
+    "autor": "DC COMICS",
+    "ubicacion": "PA-H24",
+    "portada": "",
+    "categoria": "COMIC "
+  },
+  {
+    "titulo": "MINIPEDIA TOMO 03",
+    "autor": "SCALE EDITIONS",
+    "ubicacion": "PA-H25",
+    "portada": "",
+    "categoria": "MINIATURAS, PINTURA"
+  },
+  {
+    "titulo": "PANTHER VS T34",
+    "autor": "ROBERT FORCZYK",
+    "ubicacion": "PA-H26",
+    "portada": "",
+    "categoria": "HISTORIA, REVISTA"
+  },
+  {
+    "titulo": "ARTE",
+    "autor": "WILLIAM Z. SHETTER",
+    "ubicacion": "PA-H27",
+    "portada": "",
+    "categoria": "FOTOGRAFIA, ARTE"
+  },
+  {
+    "titulo": "IRON FIST TOMO 28",
+    "autor": "MARVEL",
+    "ubicacion": "PA-H28",
+    "portada": "",
+    "categoria": "COMIC "
+  },
+  {
+    "titulo": "LOS INHUMANOS TOMO 30",
+    "autor": "MARVEL",
+    "ubicacion": "PA-H29",
+    "portada": "",
+    "categoria": "COMIC "
+  },
+  {
+    "titulo": "HULK TOMO 04",
+    "autor": "MARVEL",
+    "ubicacion": "PA-H30",
+    "portada": "",
+    "categoria": "COMIC "
+  },
+  {
+    "titulo": "GUARDIANES DE LA GALAXIA TOMO 14",
+    "autor": "MARVEL",
+    "ubicacion": "PA-H31",
+    "portada": "",
+    "categoria": "COMIC "
+  },
+  {
+    "titulo": "PUNISHER TOMO 20",
+    "autor": "MARVEL ",
+    "ubicacion": "PA-H32",
+    "portada": "",
+    "categoria": "COMIC "
+  },
+  {
+    "titulo": "DOCTOR STRANGE TOMO 26",
+    "autor": "MARVEL",
+    "ubicacion": "PA-H33",
+    "portada": "",
+    "categoria": "COMIC "
+  }
+]
