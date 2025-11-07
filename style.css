@@ -31,7 +31,7 @@ h1 {
     margin-bottom: 15px; /*Espacio inferior*/
 }
 #botonBuscar {
-    width: 20%; /*Ancho del botón*/
+    width: 100%; /*Ancho del botón*/
     padding: 12px; /*Espaciado interno*/
     background-color: #007BFF; /*Color de fondo azul*/
     color: white; /*Color del texto*/
@@ -67,7 +67,12 @@ h1 {
 }
 /*--- Estilo para el selector multiple ---*/
 #filtroCategoria {
-    height: 120px; ;
+    width: 100%;
+    height: 120px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 5px;
+    background-color: #fff;
 }
 #filtroCategoria option {
     padding: 5px; /*Espaciado interno para cada opción*/
@@ -113,23 +118,4 @@ se expanda correctamente alrededor de la imagen flotante.*/
     content: "";
     display: table;
     clear: both;
-}
-/*---Estilo para contenedor de chechboc---*/
-.checkbox-container {
-    height: 120px;
-    overflow-y: auto; /*scroll vertical*/
-    border: 1px solid #ddd;
-    border-radius: 4px;
-    padding: 10px;
-    background-color: #fff;
-}
-/*Estilo para cada casilla*/
-.checkbox-item {
-    display: block;
-    margin-bottom: 5px;
-    cursor: pointer;
-}
-.checkbox-item input {
-    margin-right: 8px; /*Espacio entre la casilla y el texto*/
-    cursor: pointer;
 }

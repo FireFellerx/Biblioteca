@@ -48,85 +48,85 @@ async function iniciarApp() {
     }
 }
 /*--- Funcion para popular los filtros ---*/
+/* --- 4. FUNCIÓN: POPULAR LOS FILTROS (¡CON SELECT OPTIONS!) --- */
 function popularFiltros() {
-    const todosLosAutores = new Set();
-    const todasLasCategorias = new Set();
+    const todosLosAutores = new Set(); 
+    const todasLasCategorias = new Set(); 
 
     miBiblioteca.forEach(libro => {
         if (libro.autor) {
             todosLosAutores.add(libro.autor);
         }
-        //comprueba si categoriaes string y lo convierte en array
+
         let categoriasArray = [];
         if (typeof libro.categoria === 'string') {
             categoriasArray = libro.categoria.split(',').map(cat => cat.trim());
         } else if (Array.isArray(libro.categoria)) {
             categoriasArray = libro.categoria;
         }
+
         categoriasArray.forEach(cat => {
-            if (cat) todasLasCategorias.add(cat);
+            if (cat) todasLasCategorias.add(cat); 
         });
     });
-    //llenamos el filtro de autores
-    filtroAutor.innerHTML = '<option value="">-- Todos los autores --</option>';
+
+    // --- Llenar filtro de Autores (Sin cambios) ---
+    filtroAutor.innerHTML = '<option value="">-- Todos los Autores --</option>'; 
     [...todosLosAutores].sort().forEach(autor => {
-        const opcion = document.createElement('option');
+        const opcion = document.createElement("option");
         opcion.value = autor;
         opcion.textContent = autor;
         filtroAutor.appendChild(opcion);
     });
-    //llenamos el filtro de categorias
-    filtroCategoria.innerHTML = '';
-    [...todasLasCategorias].sort().forEach(categoria => {
-        const checkbox = document.createElement('input');
-        checkbox.type = 'checkbox';
-        checkbox.id = `cat-${categoria}`;
-        checkbox.value = categoria;
-        checkbox.className = 'filtro-categoria-check';
-        const label = document.createElement('label');
-        label.htmlFor = `cat-${categoria}`;
-        label.textContent = categoria;
-        const itemDiv = document.createElement('div');
-        itemDiv.className = 'checkbox-item';
-        itemDiv.appendChild(checkbox);
-        itemDiv.appendChild(label);
-        filtroCategoria.appendChild(itemDiv);
-    });
-}       
 
-/*--- 5. FUNCIÓN PARA BUSCAR LIBROS ---*/
-function buscarLibro() {
-    // Limpiamos los resultados anteriores (minusculas)
+    // --- ¡REVERTIDO! Llenar filtro de Categorías (con Options) ---
+    filtroCategoria.innerHTML = ''; // Limpiamos el select
+    
+    [...todasLasCategorias].sort().forEach(categoria => {
+        // Creamos un <option>
+        const opcion = document.createElement("option");
+        opcion.value = categoria;
+        opcion.textContent = categoria;
+        // Lo añadimos al <select>
+        filtroCategoria.appendChild(opcion);
+    });
+}
+
+/* --- 5. FUNCIÓN PRINCIPAL DE BÚSQUEDA (¡LEE SELECT MULTIPLE!) --- */
+function buscarLibros() {
     const terminoBusqueda = barraBusqueda.value.toLowerCase();
     const autorSeleccionado = filtroAutor.value;
-    const checboxesSeleccionados = document.querySelectorAll('.filtro-categoria-check:checked');
-    const categoriasSeleccionadas = Array.from(checboxesSeleccionados).map(check => check.value);
-    // Filtramos los libros que coinciden con el término de búsqueda
+    
+    // --- ¡REVERTIDO! Cómo leer las categorías del 'select multiple' ---
+    const categoriasSeleccionadas = Array.from(filtroCategoria.selectedOptions).map(opt => opt.value);
+
+    // El resto de la función es idéntica
     let librosEncontrados = miBiblioteca;
 
     if (terminoBusqueda) {
-        librosEncontrados = librosEncontrados.filter(libro =>
-            libro.titulo.toLowerCase().includes(terminoBusqueda)
+        librosEncontrados = librosEncontrados.filter(libro => 
+            libro.titulo && libro.titulo.toLowerCase().includes(terminoBusqueda)
         );
     }
+
     if (autorSeleccionado) {
-        librosEncontrados = librosEncontrados.filter(libro =>
+        librosEncontrados = librosEncontrados.filter(libro => 
             libro.autor === autorSeleccionado
         );
     }
+
     if (categoriasSeleccionadas.length > 0) {
         librosEncontrados = librosEncontrados.filter(libro => {
             let categoriasArray = [];
             if (typeof libro.categoria === 'string') {
                 categoriasArray = libro.categoria.split(',').map(cat => cat.trim());
             } else if (Array.isArray(libro.categoria)) {
-                categoriasArray = libro.categoria;    
+                categoriasArray = libro.categoria;
             }
             return categoriasArray.some(cat => categoriasSeleccionadas.includes(cat));
         });
-
     }
-    // Mostramos los resultados
+
     mostrarResultados(librosEncontrados);
 }
 
