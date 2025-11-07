@@ -114,3 +114,22 @@ se expanda correctamente alrededor de la imagen flotante.*/
     display: table;
     clear: both;
 }
+/*---Estilo para contenedor de chechboc---*/
+.checkbox-container {
+    height: 120px;
+    overflow-y: auto; /*scroll vertical*/
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 10px;
+    background-color: #fff;
+}
+/*Estilo para cada casilla*/
+.checkbox-item {
+    display: block;
+    margin-bottom: 5px;
+    cursor: pointer;
+}
+.checkbox-item input {
+    margin-right: 8px; /*Espacio entre la casilla y el texto*/
+    cursor: pointer;
+}

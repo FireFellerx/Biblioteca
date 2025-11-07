@@ -78,10 +78,19 @@ function popularFiltros() {
     //llenamos el filtro de categorias
     filtroCategoria.innerHTML = '';
     [...todasLasCategorias].sort().forEach(categoria => {
-        const opcion = document.createElement('option');
-        opcion.value = categoria;
-        opcion.textContent = categoria;
-        filtroCategoria.appendChild(opcion);
+        const checkbox = document.createElement('input');
+        checkbox.type = 'checkbox';
+        checkbox.id = `cat-${categoria}`;
+        checkbox.value = categoria;
+        checkbox.className = 'filtro-categoria-check';
+        const label = document.createElement('label');
+        label.htmlFor = `cat-${categoria}`;
+        label.textContent = categoria;
+        const itemDiv = document.createElement('div');
+        itemDiv.className = 'checkbox-item';
+        itemDiv.appendChild(checkbox);
+        itemDiv.appendChild(label);
+        filtroCategoria.appendChild(itemDiv);
     });
 }       
 
@@ -90,7 +99,8 @@ function buscarLibro() {
     // Limpiamos los resultados anteriores (minusculas)
     const terminoBusqueda = barraBusqueda.value.toLowerCase();
     const autorSeleccionado = filtroAutor.value;
-    const categoriasSeleccionadas = Array.from(filtroCategoria.selectedOptions).map(opt => opt.value);
+    const checboxesSeleccionados = document.querySelectorAll('.filtro-categoria-check:checked');
+    const categoriasSeleccionadas = Array.from(checboxesSeleccionados).map(check => check.value);
     // Filtramos los libros que coinciden con el término de búsqueda
     let librosEncontrados = miBiblioteca;
 
@@ -135,7 +145,7 @@ function mostrarResultados(libros) {
         const libroDiv = document.createElement('div');
         libroDiv.className = 'libro-item'; //usamos el estilo CSS que definimos antes
         // codigo para la portada del libro en jpg
-        if (libroPortada) {
+        if (libro.portada) {
             const libroPortada = document.createElement('img');
             libroPortada.src = libro.portada;
             libroPortada.alt = "Portada de " + (libro.titulo || 'Desconocido');
